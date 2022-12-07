@@ -1,0 +1,2773 @@
+,country,people,type,range,date
+0,American Samoa, adults ,obese ,>=30.0,2004
+1,American Samoa, adults ,obese ,>=30.0,2007
+2,American Samoa, adults ,overweight ,>=25.0,2004
+3,American Samoa, adults ,pre-obese ,25.0-29.99,2004
+4,American Samoa, adults ,pre-obese ,25.0-29.99,2007
+5,American Samoa, adults ,underweight ,<18.5,2004
+6,American Samoa, females ,obese ,>=30.0,2004
+7,American Samoa, females ,obese ,>=30.0,2007
+8,American Samoa, females ,overweight ,>=25.0,2004
+9,American Samoa, females ,pre-obese ,25.0-29.99,2004
+10,American Samoa, females ,pre-obese ,25.0-29.99,2007
+11,American Samoa, females ,underweight ,<18.5,2004
+12,American Samoa, males ,obese ,>=30.0,2004
+13,American Samoa, males ,obese ,>=30.0,2007
+14,American Samoa, males ,overweight ,>=25.0,2004
+15,American Samoa, males ,pre-obese ,25.0-29.99,2004
+16,American Samoa, males ,pre-obese ,25.0-29.99,2007
+17,Argentina, females ,normal ,18.5-24.99,2004
+18,Argentina, females ,normal ,18.5-24.99,2005
+19,Argentina, females ,obese ,>=30.0,2004
+20,Argentina, females ,obese ,>=30.0,2005
+21,Argentina, females ,overweight ,>=25.0,2004
+22,Argentina, females ,overweight ,>=25.0,2005
+23,Argentina, females ,pre-obese ,25.0-29.99,2004
+24,Argentina, females ,pre-obese ,25.0-29.99,2005
+25,Argentina, females ,underweight ,<18.5,2004
+26,Argentina, females ,underweight ,<18.5,2005
+27,Armenia, females ,moderate and severe thinness ,<=17,2005
+28,Armenia, females ,normal ,18.5-24.99,2005
+29,Armenia, females ,obese ,>=30.0,2
+30,Armenia, females ,obese ,>=30.0,2001
+31,Armenia, females ,obese ,>=30.0,2005
+32,Armenia, females ,overweight ,>=25.0,2
+33,Armenia, females ,overweight ,>=25.0,2001
+34,Armenia, females ,overweight ,>=25.0,2005
+35,Armenia, females ,pre-obese ,25.0-29.99,2005
+36,Armenia, females ,underweight ,<18.5,2005
+37,Australia, adults ,normal ,18.5-24.99,1999
+38,Australia, adults ,normal ,18.5-24.99,2
+39,Australia, adults ,obese ,>=30.0,1999
+40,Australia, adults ,obese ,>=30.0,2
+41,Australia, adults ,obese ,>=30.0,2001
+42,Australia, adults ,obese ,>=30.0,2004
+43,Australia, adults ,obese ,>=30.0,2005
+44,Australia, adults ,overweight ,>=25.0,1999
+45,Australia, adults ,overweight ,>=25.0,2
+46,Australia, adults ,overweight ,>=25.0,2001
+47,Australia, adults ,overweight ,>=25.0,2004
+48,Australia, adults ,overweight ,>=25.0,2005
+49,Australia, adults ,pre-obese ,25.0-29.99,1999
+50,Australia, adults ,pre-obese ,25.0-29.99,2
+51,Australia, adults ,underweight ,<18.5,1999
+52,Australia, adults ,underweight ,<18.5,2
+53,Australia, females ,normal ,18.5-24.99,1999
+54,Australia, females ,normal ,18.5-24.99,2
+55,Australia, females ,normal ,18.5-24.99,2007
+56,Australia, females ,normal ,18.5-24.99,2008
+57,Australia, females ,obese ,>=30.0,1999
+58,Australia, females ,obese ,>=30.0,2
+59,Australia, females ,obese ,>=30.0,2001
+60,Australia, females ,obese ,>=30.0,2004
+61,Australia, females ,obese ,>=30.0,2005
+62,Australia, females ,obese ,>=30.0,2007
+63,Australia, females ,obese ,>=30.0,2008
+64,Australia, females ,overweight ,>=25.0,1999
+65,Australia, females ,overweight ,>=25.0,2
+66,Australia, females ,overweight ,>=25.0,2001
+67,Australia, females ,overweight ,>=25.0,2004
+68,Australia, females ,overweight ,>=25.0,2005
+69,Australia, females ,overweight ,>=25.0,2007
+70,Australia, females ,overweight ,>=25.0,2008
+71,Australia, females ,pre-obese ,25.0-29.99,1999
+72,Australia, females ,pre-obese ,25.0-29.99,2
+73,Australia, females ,pre-obese ,25.0-29.99,2007
+74,Australia, females ,pre-obese ,25.0-29.99,2008
+75,Australia, females ,underweight ,<18.5,1999
+76,Australia, females ,underweight ,<18.5,2
+77,Australia, females ,underweight ,<18.5,2007
+78,Australia, females ,underweight ,<18.5,2008
+79,Australia, males ,normal ,18.5-24.99,1999
+80,Australia, males ,normal ,18.5-24.99,2
+81,Australia, males ,normal ,18.5-24.99,2007
+82,Australia, males ,normal ,18.5-24.99,2008
+83,Australia, males ,obese ,>=30.0,1999
+84,Australia, males ,obese ,>=30.0,2
+85,Australia, males ,obese ,>=30.0,2001
+86,Australia, males ,obese ,>=30.0,2004
+87,Australia, males ,obese ,>=30.0,2005
+88,Australia, males ,obese ,>=30.0,2007
+89,Australia, males ,obese ,>=30.0,2008
+90,Australia, males ,overweight ,>=25.0,1999
+91,Australia, males ,overweight ,>=25.0,2
+92,Australia, males ,overweight ,>=25.0,2001
+93,Australia, males ,overweight ,>=25.0,2004
+94,Australia, males ,overweight ,>=25.0,2005
+95,Australia, males ,overweight ,>=25.0,2007
+96,Australia, males ,overweight ,>=25.0,2008
+97,Australia, males ,pre-obese ,25.0-29.99,1999
+98,Australia, males ,pre-obese ,25.0-29.99,2
+99,Australia, males ,pre-obese ,25.0-29.99,2007
+100,Australia, males ,pre-obese ,25.0-29.99,2008
+101,Australia, males ,underweight ,<18.5,1999
+102,Australia, males ,underweight ,<18.5,2
+103,Australia, males ,underweight ,<18.5,2007
+104,Australia, males ,underweight ,<18.5,2008
+105,Austria, adults ,normal ,18.5-24.99,1999
+106,Austria, adults ,normal ,18.5-24.99,2006
+107,Austria, adults ,normal ,18.5-24.99,2007
+108,Austria, adults ,normal ,18.5-24.99,2008
+109,Austria, adults ,obese ,>=30.0,1999
+110,Austria, adults ,obese ,>=30.0,2006
+111,Austria, adults ,obese ,>=30.0,2007
+112,Austria, adults ,obese ,>=30.0,2008
+113,Austria, adults ,overweight ,>=25.0,1999
+114,Austria, adults ,overweight ,>=25.0,2006
+115,Austria, adults ,overweight ,>=25.0,2007
+116,Austria, adults ,overweight ,>=25.0,2008
+117,Austria, adults ,pre-obese ,25.0-29.99,1999
+118,Austria, adults ,pre-obese ,25.0-29.99,2006
+119,Austria, adults ,pre-obese ,25.0-29.99,2007
+120,Austria, adults ,pre-obese ,25.0-29.99,2008
+121,Austria, adults ,underweight ,<18.5,1999
+122,Austria, adults ,underweight ,<18.5,2006
+123,Austria, adults ,underweight ,<18.5,2007
+124,Austria, adults ,underweight ,<18.5,2008
+125,Austria, females ,normal ,18.5-24.99,1999
+126,Austria, females ,normal ,18.5-24.99,2006
+127,Austria, females ,normal ,18.5-24.99,2007
+128,Austria, females ,normal ,18.5-24.99,2008
+129,Austria, females ,obese ,>=30.0,1999
+130,Austria, females ,obese ,>=30.0,2006
+131,Austria, females ,obese ,>=30.0,2007
+132,Austria, females ,obese ,>=30.0,2008
+133,Austria, females ,overweight ,>=25.0,1999
+134,Austria, females ,overweight ,>=25.0,2006
+135,Austria, females ,overweight ,>=25.0,2007
+136,Austria, females ,overweight ,>=25.0,2008
+137,Austria, females ,pre-obese ,25.0-29.99,1999
+138,Austria, females ,pre-obese ,25.0-29.99,2006
+139,Austria, females ,pre-obese ,25.0-29.99,2007
+140,Austria, females ,pre-obese ,25.0-29.99,2008
+141,Austria, females ,underweight ,<18.5,1999
+142,Austria, females ,underweight ,<18.5,2006
+143,Austria, females ,underweight ,<18.5,2007
+144,Austria, females ,underweight ,<18.5,2008
+145,Austria, males ,normal ,18.5-24.99,1999
+146,Austria, males ,normal ,18.5-24.99,2006
+147,Austria, males ,normal ,18.5-24.99,2007
+148,Austria, males ,normal ,18.5-24.99,2008
+149,Austria, males ,obese ,>=30.0,1999
+150,Austria, males ,obese ,>=30.0,2006
+151,Austria, males ,obese ,>=30.0,2007
+152,Austria, males ,obese ,>=30.0,2008
+153,Austria, males ,overweight ,>=25.0,1999
+154,Austria, males ,overweight ,>=25.0,2006
+155,Austria, males ,overweight ,>=25.0,2007
+156,Austria, males ,overweight ,>=25.0,2008
+157,Austria, males ,pre-obese ,25.0-29.99,1999
+158,Austria, males ,pre-obese ,25.0-29.99,2006
+159,Austria, males ,pre-obese ,25.0-29.99,2007
+160,Austria, males ,pre-obese ,25.0-29.99,2008
+161,Austria, males ,underweight ,<18.5,1999
+162,Austria, males ,underweight ,<18.5,2006
+163,Austria, males ,underweight ,<18.5,2007
+164,Austria, males ,underweight ,<18.5,2008
+165,Azerbaijan, females ,moderate and severe thinness ,<=17,2006
+166,Azerbaijan, females ,normal ,18.5-24.99,2006
+167,Azerbaijan, females ,obese ,>=30.0,2001
+168,Azerbaijan, females ,obese ,>=30.0,2006
+169,Azerbaijan, females ,overweight ,>=25.0,2001
+170,Azerbaijan, females ,overweight ,>=25.0,2006
+171,Azerbaijan, females ,pre-obese ,25.0-29.99,2006
+172,Azerbaijan, females ,underweight ,<18.5,2006
+173,Azerbaijan, males ,moderate and severe thinness ,<=17,2006
+174,Azerbaijan, males ,normal ,18.5-24.99,2006
+175,Azerbaijan, males ,obese ,>=30.0,2006
+176,Azerbaijan, males ,overweight ,>=25.0,2006
+177,Azerbaijan, males ,pre-obese ,25.0-29.99,2006
+178,Azerbaijan, males ,underweight ,<18.5,2006
+179,Bahrain, adults ,obese ,>=30.0,1999
+180,Bahrain, adults ,overweight ,>=25.0,1999
+181,Bahrain, adults ,pre-obese ,25.0-29.99,1999
+182,Bahrain, females ,obese ,>=30.0,1999
+183,Bahrain, females ,overweight ,>=25.0,1999
+184,Bahrain, females ,pre-obese ,25.0-29.99,1999
+185,Bahrain, males ,obese ,>=30.0,1999
+186,Bahrain, males ,overweight ,>=25.0,1999
+187,Bahrain, males ,pre-obese ,25.0-29.99,1999
+188,Bangladesh, females ,moderate and severe thinness ,<=17,2007
+189,Bangladesh, females ,normal ,18.5-24.99,2003
+190,Bangladesh, females ,normal ,18.5-24.99,2007
+191,Bangladesh, females ,obese ,>=30.0,1999
+192,Bangladesh, females ,obese ,>=30.0,2
+193,Bangladesh, females ,obese ,>=30.0,2007
+194,Bangladesh, females ,overweight ,>=25.0,1999
+195,Bangladesh, females ,overweight ,>=25.0,2
+196,Bangladesh, females ,overweight ,>=25.0,2003
+197,Bangladesh, females ,overweight ,>=25.0,2007
+198,Bangladesh, females ,pre-obese ,25.0-29.99,2007
+199,Bangladesh, females ,underweight ,<18.5,1999
+200,Bangladesh, females ,underweight ,<18.5,2
+201,Bangladesh, females ,underweight ,<18.5,2003
+202,Bangladesh, females ,underweight ,<18.5,2005
+203,Bangladesh, females ,underweight ,<18.5,2007
+204,Barbados, adults ,overweight ,>=25.0,2
+205,Barbados, adults ,overweight ,>=25.0,2001
+206,Barbados, adults ,underweight ,<18.5,2
+207,Barbados, adults ,underweight ,<18.5,2001
+208,Barbados, females ,overweight ,>=25.0,2
+209,Barbados, females ,overweight ,>=25.0,2001
+210,Barbados, females ,underweight ,<18.5,2
+211,Barbados, females ,underweight ,<18.5,2001
+212,Barbados, males ,overweight ,>=25.0,2
+213,Barbados, males ,overweight ,>=25.0,2001
+214,Barbados, males ,underweight ,<18.5,2
+215,Barbados, males ,underweight ,<18.5,2001
+216,Belgium, adults ,normal ,18.5-24.99,2004
+217,Belgium, adults ,obese ,>=30.0,2001
+218,Belgium, adults ,obese ,>=30.0,2004
+219,Belgium, adults ,overweight ,>=25.0,2004
+220,Belgium, adults ,pre-obese ,25.0-29.99,2004
+221,Belgium, adults ,underweight ,<18.5,2004
+222,Belgium, females ,normal ,18.5-24.99,2004
+223,Belgium, females ,obese ,>=30.0,2001
+224,Belgium, females ,obese ,>=30.0,2004
+225,Belgium, females ,overweight ,>=25.0,2004
+226,Belgium, females ,pre-obese ,25.0-29.99,2004
+227,Belgium, females ,underweight ,<18.5,2004
+228,Belgium, males ,normal ,18.5-24.99,2004
+229,Belgium, males ,obese ,>=30.0,2001
+230,Belgium, males ,obese ,>=30.0,2004
+231,Belgium, males ,overweight ,>=25.0,2004
+232,Belgium, males ,pre-obese ,25.0-29.99,2004
+233,Belgium, males ,underweight ,<18.5,2004
+234,Benin, females ,moderate and severe thinness ,<=17,2006
+235,Benin, females ,normal ,18.5-24.99,2001
+236,Benin, females ,normal ,18.5-24.99,2006
+237,Benin, females ,obese ,>=30.0,2001
+238,Benin, females ,obese ,>=30.0,2006
+239,Benin, females ,overweight ,>=25.0,2001
+240,Benin, females ,overweight ,>=25.0,2006
+241,Benin, females ,pre-obese ,25.0-29.99,2001
+242,Benin, females ,pre-obese ,25.0-29.99,2006
+243,Benin, females ,underweight ,<18.5,2001
+244,Benin, females ,underweight ,<18.5,2006
+245,Bolivia (Plurinational State of), females ,moderate and severe thinness ,<=17,2008
+246,Bolivia (Plurinational State of), females ,normal ,18.5-24.99,2003
+247,Bolivia (Plurinational State of), females ,normal ,18.5-24.99,2008
+248,Bolivia (Plurinational State of), females ,obese ,>=30.0,2003
+249,Bolivia (Plurinational State of), females ,obese ,>=30.0,2008
+250,Bolivia (Plurinational State of), females ,overweight ,>=25.0,2003
+251,Bolivia (Plurinational State of), females ,overweight ,>=25.0,2008
+252,Bolivia (Plurinational State of), females ,pre-obese ,25.0-29.99,2003
+253,Bolivia (Plurinational State of), females ,pre-obese ,25.0-29.99,2008
+254,Bolivia (Plurinational State of), females ,underweight ,<18.5,2003
+255,Bolivia (Plurinational State of), females ,underweight ,<18.5,2008
+256,Bosnia and Herzegovina, adults ,obese ,>=30.0,2002
+257,Bosnia and Herzegovina, adults ,overweight ,>=25.0,2002
+258,Bosnia and Herzegovina, females ,obese ,>=30.0,2002
+259,Bosnia and Herzegovina, females ,overweight ,>=25.0,2002
+260,Bosnia and Herzegovina, males ,obese ,>=30.0,2002
+261,Bosnia and Herzegovina, males ,overweight ,>=25.0,2002
+262,Brazil, adults ,normal ,18.5-24.99,2002
+263,Brazil, adults ,normal ,18.5-24.99,2003
+264,Brazil, adults ,obese ,>=30.0,2002
+265,Brazil, adults ,obese ,>=30.0,2003
+266,Brazil, adults ,overweight ,>=25.0,2002
+267,Brazil, adults ,overweight ,>=25.0,2003
+268,Brazil, adults ,pre-obese ,25.0-29.99,2002
+269,Brazil, adults ,pre-obese ,25.0-29.99,2003
+270,Brazil, adults ,underweight ,<18.5,2002
+271,Brazil, adults ,underweight ,<18.5,2003
+272,Brazil, females ,normal ,18.5-24.99,2002
+273,Brazil, females ,normal ,18.5-24.99,2003
+274,Brazil, females ,obese ,>=30.0,2002
+275,Brazil, females ,obese ,>=30.0,2003
+276,Brazil, females ,obese ,>=30.0,2006
+277,Brazil, females ,obese ,>=30.0,2007
+278,Brazil, females ,overweight ,>=25.0,2002
+279,Brazil, females ,overweight ,>=25.0,2003
+280,Brazil, females ,overweight ,>=25.0,2006
+281,Brazil, females ,overweight ,>=25.0,2007
+282,Brazil, females ,pre-obese ,25.0-29.99,2002
+283,Brazil, females ,pre-obese ,25.0-29.99,2003
+284,Brazil, females ,underweight ,<18.5,2002
+285,Brazil, females ,underweight ,<18.5,2003
+286,Brazil, females ,underweight ,<18.5,2006
+287,Brazil, females ,underweight ,<18.5,2007
+288,Brazil, males ,normal ,18.5-24.99,2002
+289,Brazil, males ,normal ,18.5-24.99,2003
+290,Brazil, males ,obese ,>=30.0,2002
+291,Brazil, males ,obese ,>=30.0,2003
+292,Brazil, males ,overweight ,>=25.0,2002
+293,Brazil, males ,overweight ,>=25.0,2003
+294,Brazil, males ,pre-obese ,25.0-29.99,2002
+295,Brazil, males ,pre-obese ,25.0-29.99,2003
+296,Brazil, males ,underweight ,<18.5,2002
+297,Brazil, males ,underweight ,<18.5,2003
+298,Bulgaria, adults ,normal ,18.5-24.99,2001
+299,Bulgaria, adults ,obese ,>=30.0,2001
+300,Bulgaria, adults ,overweight ,>=25.0,2001
+301,Bulgaria, adults ,pre-obese ,25.0-29.99,2001
+302,Bulgaria, adults ,underweight ,<18.5,2001
+303,Bulgaria, females ,normal ,18.5-24.99,2001
+304,Bulgaria, females ,obese ,>=30.0,2001
+305,Bulgaria, females ,obese ,>=30.0,2004
+306,Bulgaria, females ,overweight ,>=25.0,2001
+307,Bulgaria, females ,overweight ,>=25.0,2004
+308,Bulgaria, females ,pre-obese ,25.0-29.99,2001
+309,Bulgaria, females ,pre-obese ,25.0-29.99,2004
+310,Bulgaria, females ,underweight ,<18.5,2001
+311,Bulgaria, males ,normal ,18.5-24.99,2001
+312,Bulgaria, males ,obese ,>=30.0,2001
+313,Bulgaria, males ,obese ,>=30.0,2004
+314,Bulgaria, males ,overweight ,>=25.0,2001
+315,Bulgaria, males ,overweight ,>=25.0,2004
+316,Bulgaria, males ,pre-obese ,25.0-29.99,2001
+317,Bulgaria, males ,pre-obese ,25.0-29.99,2004
+318,Bulgaria, males ,underweight ,<18.5,2001
+319,Burkina Faso, females ,moderate and severe thinness ,<=17,2003
+320,Burkina Faso, females ,normal ,18.5-24.99,2003
+321,Burkina Faso, females ,obese ,>=30.0,1999
+322,Burkina Faso, females ,obese ,>=30.0,2003
+323,Burkina Faso, females ,overweight ,>=25.0,1999
+324,Burkina Faso, females ,overweight ,>=25.0,2003
+325,Burkina Faso, females ,pre-obese ,25.0-29.99,2003
+326,Burkina Faso, females ,underweight ,<18.5,2003
+327,Cambodia, females ,moderate and severe thinness ,<=17,2005
+328,Cambodia, females ,moderate and severe thinness ,<=17,2006
+329,Cambodia, females ,normal ,18.5-24.99,2005
+330,Cambodia, females ,normal ,18.5-24.99,2006
+331,Cambodia, females ,obese ,>=30.0,2
+332,Cambodia, females ,obese ,>=30.0,2005
+333,Cambodia, females ,obese ,>=30.0,2006
+334,Cambodia, females ,overweight ,>=25.0,2
+335,Cambodia, females ,overweight ,>=25.0,2005
+336,Cambodia, females ,overweight ,>=25.0,2006
+337,Cambodia, females ,pre-obese ,25.0-29.99,2005
+338,Cambodia, females ,pre-obese ,25.0-29.99,2006
+339,Cambodia, females ,underweight ,<18.5,2005
+340,Cambodia, females ,underweight ,<18.5,2006
+341,Cameroon, females ,moderate and severe thinness ,<=17,2004
+342,Cameroon, females ,normal ,18.5-24.99,2004
+343,Cameroon, females ,obese ,>=30.0,2004
+344,Cameroon, females ,overweight ,>=25.0,2004
+345,Cameroon, females ,pre-obese ,25.0-29.99,2004
+346,Cameroon, females ,underweight ,<18.5,2004
+347,Canada, adults ,normal ,18.5-24.99,2
+348,Canada, adults ,normal ,18.5-24.99,2001
+349,Canada, adults ,normal ,18.5-24.99,2003
+350,Canada, adults ,obese ,>=30.0,2
+351,Canada, adults ,obese ,>=30.0,2001
+352,Canada, adults ,obese ,>=30.0,2002
+353,Canada, adults ,obese ,>=30.0,2003
+354,Canada, adults ,obese ,>=30.0,2004
+355,Canada, adults ,overweight ,>=25.0,2
+356,Canada, adults ,overweight ,>=25.0,2001
+357,Canada, adults ,overweight ,>=25.0,2002
+358,Canada, adults ,overweight ,>=25.0,2003
+359,Canada, adults ,overweight ,>=25.0,2004
+360,Canada, adults ,pre-obese ,25.0-29.99,2
+361,Canada, adults ,pre-obese ,25.0-29.99,2001
+362,Canada, adults ,pre-obese ,25.0-29.99,2003
+363,Canada, adults ,pre-obese ,25.0-29.99,2004
+364,Canada, adults ,underweight ,<18.5,2
+365,Canada, adults ,underweight ,<18.5,2001
+366,Canada, adults ,underweight ,<18.5,2003
+367,Canada, females ,normal ,18.5-24.99,2
+368,Canada, females ,normal ,18.5-24.99,2001
+369,Canada, females ,normal ,18.5-24.99,2003
+370,Canada, females ,obese ,>=30.0,1999
+371,Canada, females ,obese ,>=30.0,2
+372,Canada, females ,obese ,>=30.0,2001
+373,Canada, females ,obese ,>=30.0,2002
+374,Canada, females ,obese ,>=30.0,2003
+375,Canada, females ,obese ,>=30.0,2004
+376,Canada, females ,overweight ,>=25.0,2
+377,Canada, females ,overweight ,>=25.0,2001
+378,Canada, females ,overweight ,>=25.0,2002
+379,Canada, females ,overweight ,>=25.0,2003
+380,Canada, females ,overweight ,>=25.0,2004
+381,Canada, females ,pre-obese ,25.0-29.99,2
+382,Canada, females ,pre-obese ,25.0-29.99,2001
+383,Canada, females ,pre-obese ,25.0-29.99,2003
+384,Canada, females ,pre-obese ,25.0-29.99,2004
+385,Canada, females ,underweight ,<18.5,2
+386,Canada, females ,underweight ,<18.5,2001
+387,Canada, females ,underweight ,<18.5,2003
+388,Canada, males ,normal ,18.5-24.99,2
+389,Canada, males ,normal ,18.5-24.99,2001
+390,Canada, males ,normal ,18.5-24.99,2003
+391,Canada, males ,obese ,>=30.0,1999
+392,Canada, males ,obese ,>=30.0,2
+393,Canada, males ,obese ,>=30.0,2001
+394,Canada, males ,obese ,>=30.0,2002
+395,Canada, males ,obese ,>=30.0,2003
+396,Canada, males ,obese ,>=30.0,2004
+397,Canada, males ,overweight ,>=25.0,2
+398,Canada, males ,overweight ,>=25.0,2001
+399,Canada, males ,overweight ,>=25.0,2002
+400,Canada, males ,overweight ,>=25.0,2003
+401,Canada, males ,overweight ,>=25.0,2004
+402,Canada, males ,pre-obese ,25.0-29.99,2
+403,Canada, males ,pre-obese ,25.0-29.99,2001
+404,Canada, males ,pre-obese ,25.0-29.99,2003
+405,Canada, males ,pre-obese ,25.0-29.99,2004
+406,Canada, males ,underweight ,<18.5,2
+407,Canada, males ,underweight ,<18.5,2001
+408,Canada, males ,underweight ,<18.5,2003
+409,Chad, females ,moderate and severe thinness ,<=17,2004
+410,Chad, females ,normal ,18.5-24.99,2004
+411,Chad, females ,obese ,>=30.0,2004
+412,Chad, females ,overweight ,>=25.0,2004
+413,Chad, females ,underweight ,<18.5,2004
+414,Chile, adults ,obese ,>=30.0,2003
+415,Chile, adults ,overweight ,>=25.0,2003
+416,Chile, adults ,pre-obese ,25.0-29.99,2003
+417,Chile, adults ,underweight ,<18.5,2003
+418,Chile, females ,obese ,>=30.0,2003
+419,Chile, females ,overweight ,>=25.0,2003
+420,Chile, females ,pre-obese ,25.0-29.99,2003
+421,Chile, females ,underweight ,<18.5,2003
+422,Chile, males ,obese ,>=30.0,2003
+423,Chile, males ,overweight ,>=25.0,2003
+424,Chile, males ,pre-obese ,25.0-29.99,2003
+425,Chile, males ,underweight ,<18.5,2003
+426,China, adults ,obese ,>=30.0,2002
+427,China, adults ,overweight ,>=25.0,2
+428,China, adults ,overweight ,>=25.0,2001
+429,China, adults ,overweight ,>=25.0,2002
+430,China, adults ,pre-obese ,25.0-29.99,2002
+431,China, females ,obese ,>=30.0,2002
+432,China, females ,overweight ,>=25.0,2002
+433,China, females ,pre-obese ,25.0-29.99,2002
+434,China, males ,normal ,18.5-24.99,1999
+435,China, males ,normal ,18.5-24.99,2
+436,China, males ,normal ,18.5-24.99,2001
+437,China, males ,normal ,18.5-24.99,2002
+438,China, males ,obese ,>=30.0,2002
+439,China, males ,overweight ,>=25.0,1999
+440,China, males ,overweight ,>=25.0,2
+441,China, males ,overweight ,>=25.0,2001
+442,China, males ,overweight ,>=25.0,2002
+443,China, males ,pre-obese ,25.0-29.99,2002
+444,China, males ,underweight ,<18.5,1999
+445,China, males ,underweight ,<18.5,2
+446,China, males ,underweight ,<18.5,2001
+447,China, males ,underweight ,<18.5,2002
+448,Colombia, adults ,normal ,18.5-24.99,2004
+449,Colombia, adults ,normal ,18.5-24.99,2005
+450,Colombia, adults ,obese ,>=30.0,2004
+451,Colombia, adults ,obese ,>=30.0,2005
+452,Colombia, adults ,obese ,>=30.0,2007
+453,Colombia, adults ,overweight ,>=25.0,2004
+454,Colombia, adults ,overweight ,>=25.0,2005
+455,Colombia, adults ,overweight ,>=25.0,2007
+456,Colombia, adults ,pre-obese ,25.0-29.99,2004
+457,Colombia, adults ,pre-obese ,25.0-29.99,2005
+458,Colombia, adults ,pre-obese ,25.0-29.99,2007
+459,Colombia, adults ,underweight ,<18.5,2004
+460,Colombia, adults ,underweight ,<18.5,2005
+461,Colombia, females ,normal ,18.5-24.99,2004
+462,Colombia, females ,normal ,18.5-24.99,2005
+463,Colombia, females ,obese ,>=30.0,2
+464,Colombia, females ,obese ,>=30.0,2004
+465,Colombia, females ,obese ,>=30.0,2005
+466,Colombia, females ,obese ,>=30.0,2007
+467,Colombia, females ,overweight ,>=25.0,2
+468,Colombia, females ,overweight ,>=25.0,2004
+469,Colombia, females ,overweight ,>=25.0,2005
+470,Colombia, females ,pre-obese ,25.0-29.99,2004
+471,Colombia, females ,pre-obese ,25.0-29.99,2005
+472,Colombia, females ,underweight ,<18.5,2
+473,Colombia, females ,underweight ,<18.5,2004
+474,Colombia, females ,underweight ,<18.5,2005
+475,Colombia, males ,normal ,18.5-24.99,2004
+476,Colombia, males ,normal ,18.5-24.99,2005
+477,Colombia, males ,obese ,>=30.0,2004
+478,Colombia, males ,obese ,>=30.0,2005
+479,Colombia, males ,obese ,>=30.0,2007
+480,Colombia, males ,overweight ,>=25.0,2004
+481,Colombia, males ,overweight ,>=25.0,2005
+482,Colombia, males ,pre-obese ,25.0-29.99,2004
+483,Colombia, males ,pre-obese ,25.0-29.99,2005
+484,Colombia, males ,underweight ,<18.5,2004
+485,Colombia, males ,underweight ,<18.5,2005
+486,Congo, females ,moderate and severe thinness ,<=17,2005
+487,Congo, females ,normal ,18.5-24.99,2005
+488,Congo, females ,obese ,>=30.0,2005
+489,Congo, females ,overweight ,>=25.0,2005
+490,Congo, females ,underweight ,<18.5,2005
+491,Cote d'Ivoire, females ,obese ,>=30.0,1999
+492,Cote d'Ivoire, females ,overweight ,>=25.0,1999
+493,Cote d'Ivoire, females ,underweight ,<18.5,1999
+494,Croatia, adults ,obese ,>=30.0,2003
+495,Croatia, adults ,overweight ,>=25.0,2003
+496,Croatia, females ,obese ,>=30.0,1999
+497,Croatia, females ,obese ,>=30.0,2003
+498,Croatia, females ,overweight ,>=25.0,2003
+499,Croatia, females ,pre-obese ,25.0-29.99,1999
+500,Croatia, males ,obese ,>=30.0,1999
+501,Croatia, males ,obese ,>=30.0,2003
+502,Croatia, males ,overweight ,>=25.0,2003
+503,Croatia, males ,pre-obese ,25.0-29.99,1999
+504,Cuba, adults ,normal ,18.5-24.99,2001
+505,Cuba, adults ,normal ,18.5-24.99,2002
+506,Cuba, adults ,obese ,>=30.0,2001
+507,Cuba, adults ,obese ,>=30.0,2002
+508,Cuba, adults ,overweight ,>=25.0,2001
+509,Cuba, adults ,overweight ,>=25.0,2002
+510,Cuba, adults ,pre-obese ,25.0-29.99,2001
+511,Cuba, adults ,pre-obese ,25.0-29.99,2002
+512,Cuba, females ,moderate and severe thinness ,<=17,2001
+513,Cuba, females ,moderate and severe thinness ,<=17,2002
+514,Cuba, females ,normal ,18.5-24.99,2001
+515,Cuba, females ,normal ,18.5-24.99,2002
+516,Cuba, females ,obese ,>=30.0,2001
+517,Cuba, females ,obese ,>=30.0,2002
+518,Cuba, females ,overweight ,>=25.0,2001
+519,Cuba, females ,overweight ,>=25.0,2002
+520,Cuba, females ,pre-obese ,25.0-29.99,2001
+521,Cuba, females ,pre-obese ,25.0-29.99,2002
+522,Cuba, females ,underweight ,<18.5,2001
+523,Cuba, females ,underweight ,<18.5,2002
+524,Cuba, males ,moderate and severe thinness ,<=17,2001
+525,Cuba, males ,moderate and severe thinness ,<=17,2002
+526,Cuba, males ,normal ,18.5-24.99,2001
+527,Cuba, males ,normal ,18.5-24.99,2002
+528,Cuba, males ,obese ,>=30.0,2001
+529,Cuba, males ,obese ,>=30.0,2002
+530,Cuba, males ,overweight ,>=25.0,2001
+531,Cuba, males ,overweight ,>=25.0,2002
+532,Cuba, males ,pre-obese ,25.0-29.99,2001
+533,Cuba, males ,pre-obese ,25.0-29.99,2002
+534,Cuba, males ,underweight ,<18.5,2001
+535,Cuba, males ,underweight ,<18.5,2002
+536,Cyprus, adults ,normal ,18.5-24.99,2003
+537,Cyprus, adults ,obese ,>=30.0,2003
+538,Cyprus, adults ,overweight ,>=25.0,2003
+539,Cyprus, adults ,pre-obese ,25.0-29.99,2003
+540,Cyprus, adults ,underweight ,<18.5,2003
+541,Cyprus, females ,normal ,18.5-24.99,2003
+542,Cyprus, females ,obese ,>=30.0,2003
+543,Cyprus, females ,overweight ,>=25.0,2003
+544,Cyprus, females ,pre-obese ,25.0-29.99,2003
+545,Cyprus, females ,underweight ,<18.5,2003
+546,Cyprus, males ,normal ,18.5-24.99,2003
+547,Cyprus, males ,obese ,>=30.0,2003
+548,Cyprus, males ,overweight ,>=25.0,2003
+549,Cyprus, males ,pre-obese ,25.0-29.99,2003
+550,Cyprus, males ,underweight ,<18.5,2003
+551,Czech Republic, adults ,normal ,18.5-24.99,1999
+552,Czech Republic, adults ,normal ,18.5-24.99,2002
+553,Czech Republic, adults ,obese ,>=30.0,1999
+554,Czech Republic, adults ,obese ,>=30.0,2002
+555,Czech Republic, adults ,overweight ,>=25.0,1999
+556,Czech Republic, adults ,overweight ,>=25.0,2002
+557,Czech Republic, adults ,pre-obese ,25.0-29.99,1999
+558,Czech Republic, adults ,pre-obese ,25.0-29.99,2002
+559,Czech Republic, adults ,underweight ,<18.5,1999
+560,Czech Republic, adults ,underweight ,<18.5,2002
+561,Czech Republic, females ,moderate and severe thinness ,<=17,2002
+562,Czech Republic, females ,normal ,18.5-24.99,1999
+563,Czech Republic, females ,normal ,18.5-24.99,2002
+564,Czech Republic, females ,obese ,>=30.0,1999
+565,Czech Republic, females ,obese ,>=30.0,2002
+566,Czech Republic, females ,obese ,>=30.0,2008
+567,Czech Republic, females ,overweight ,>=25.0,1999
+568,Czech Republic, females ,overweight ,>=25.0,2002
+569,Czech Republic, females ,overweight ,>=25.0,2008
+570,Czech Republic, females ,pre-obese ,25.0-29.99,1999
+571,Czech Republic, females ,pre-obese ,25.0-29.99,2002
+572,Czech Republic, females ,pre-obese ,25.0-29.99,2008
+573,Czech Republic, females ,underweight ,<18.5,1999
+574,Czech Republic, females ,underweight ,<18.5,2002
+575,Czech Republic, males ,moderate and severe thinness ,<=17,2002
+576,Czech Republic, males ,normal ,18.5-24.99,1999
+577,Czech Republic, males ,normal ,18.5-24.99,2002
+578,Czech Republic, males ,obese ,>=30.0,1999
+579,Czech Republic, males ,obese ,>=30.0,2002
+580,Czech Republic, males ,obese ,>=30.0,2008
+581,Czech Republic, males ,overweight ,>=25.0,1999
+582,Czech Republic, males ,overweight ,>=25.0,2002
+583,Czech Republic, males ,overweight ,>=25.0,2008
+584,Czech Republic, males ,pre-obese ,25.0-29.99,1999
+585,Czech Republic, males ,pre-obese ,25.0-29.99,2002
+586,Czech Republic, males ,pre-obese ,25.0-29.99,2008
+587,Czech Republic, males ,underweight ,<18.5,1999
+588,Czech Republic, males ,underweight ,<18.5,2002
+589,Democratic Republic of the Congo, females ,moderate and severe thinness ,<=17,2007
+590,Democratic Republic of the Congo, females ,normal ,18.5-24.99,2007
+591,Democratic Republic of the Congo, females ,obese ,>=30.0,2007
+592,Democratic Republic of the Congo, females ,overweight ,>=25.0,2007
+593,Democratic Republic of the Congo, females ,pre-obese ,25.0-29.99,2007
+594,Democratic Republic of the Congo, females ,underweight ,<18.5,2007
+595,Denmark, adults ,normal ,18.5-24.99,2
+596,Denmark, adults ,obese ,>=30.0,2
+597,Denmark, adults ,obese ,>=30.0,2005
+598,Denmark, adults ,obese ,>=30.0,2006
+599,Denmark, adults ,overweight ,>=25.0,2
+600,Denmark, adults ,pre-obese ,25.0-29.99,2
+601,Denmark, adults ,underweight ,<18.5,2
+602,Denmark, adults ,underweight ,<18.5,2005
+603,Denmark, adults ,underweight ,<18.5,2006
+604,Denmark, females ,normal ,18.5-24.99,2
+605,Denmark, females ,normal ,18.5-24.99,2005
+606,Denmark, females ,normal ,18.5-24.99,2006
+607,Denmark, females ,obese ,>=30.0,2
+608,Denmark, females ,obese ,>=30.0,2005
+609,Denmark, females ,obese ,>=30.0,2006
+610,Denmark, females ,overweight ,>=25.0,2
+611,Denmark, females ,overweight ,>=25.0,2005
+612,Denmark, females ,overweight ,>=25.0,2006
+613,Denmark, females ,pre-obese ,25.0-29.99,2
+614,Denmark, females ,pre-obese ,25.0-29.99,2005
+615,Denmark, females ,pre-obese ,25.0-29.99,2006
+616,Denmark, females ,underweight ,<18.5,2
+617,Denmark, females ,underweight ,<18.5,2005
+618,Denmark, females ,underweight ,<18.5,2006
+619,Denmark, males ,normal ,18.5-24.99,2
+620,Denmark, males ,normal ,18.5-24.99,2005
+621,Denmark, males ,normal ,18.5-24.99,2006
+622,Denmark, males ,obese ,>=30.0,2
+623,Denmark, males ,obese ,>=30.0,2005
+624,Denmark, males ,obese ,>=30.0,2006
+625,Denmark, males ,overweight ,>=25.0,2
+626,Denmark, males ,overweight ,>=25.0,2005
+627,Denmark, males ,overweight ,>=25.0,2006
+628,Denmark, males ,pre-obese ,25.0-29.99,2
+629,Denmark, males ,pre-obese ,25.0-29.99,2005
+630,Denmark, males ,pre-obese ,25.0-29.99,2006
+631,Denmark, males ,underweight ,<18.5,2
+632,Denmark, males ,underweight ,<18.5,2005
+633,Denmark, males ,underweight ,<18.5,2006
+634,Egypt, adults ,obese ,>=30.0,2005
+635,Egypt, adults ,obese ,>=30.0,2006
+636,Egypt, adults ,overweight ,>=25.0,2005
+637,Egypt, adults ,overweight ,>=25.0,2006
+638,Egypt, females ,moderate and severe thinness ,<=17,2008
+639,Egypt, females ,normal ,18.5-24.99,2
+640,Egypt, females ,normal ,18.5-24.99,2005
+641,Egypt, females ,normal ,18.5-24.99,2008
+642,Egypt, females ,obese ,>=30.0,2
+643,Egypt, females ,obese ,>=30.0,2005
+644,Egypt, females ,obese ,>=30.0,2006
+645,Egypt, females ,obese ,>=30.0,2008
+646,Egypt, females ,overweight ,>=25.0,2
+647,Egypt, females ,overweight ,>=25.0,2005
+648,Egypt, females ,overweight ,>=25.0,2006
+649,Egypt, females ,overweight ,>=25.0,2008
+650,Egypt, females ,pre-obese ,25.0-29.99,2
+651,Egypt, females ,pre-obese ,25.0-29.99,2005
+652,Egypt, females ,pre-obese ,25.0-29.99,2008
+653,Egypt, females ,underweight ,<18.5,2
+654,Egypt, females ,underweight ,<18.5,2005
+655,Egypt, females ,underweight ,<18.5,2008
+656,Egypt, males ,moderate and severe thinness ,<=17,2008
+657,Egypt, males ,normal ,18.5-24.99,2008
+658,Egypt, males ,obese ,>=30.0,2005
+659,Egypt, males ,obese ,>=30.0,2006
+660,Egypt, males ,obese ,>=30.0,2008
+661,Egypt, males ,overweight ,>=25.0,2005
+662,Egypt, males ,overweight ,>=25.0,2006
+663,Egypt, males ,overweight ,>=25.0,2008
+664,Egypt, males ,pre-obese ,25.0-29.99,2008
+665,Egypt, males ,underweight ,<18.5,2008
+666,Eritrea, adults ,obese ,>=30.0,2004
+667,Eritrea, adults ,overweight ,>=25.0,2004
+668,Eritrea, adults ,pre-obese ,25.0-29.99,2004
+669,Eritrea, females ,moderate and severe thinness ,<=17,2002
+670,Eritrea, females ,normal ,18.5-24.99,2002
+671,Eritrea, females ,obese ,>=30.0,2002
+672,Eritrea, females ,obese ,>=30.0,2004
+673,Eritrea, females ,overweight ,>=25.0,2002
+674,Eritrea, females ,pre-obese ,25.0-29.99,2002
+675,Eritrea, females ,underweight ,<18.5,2002
+676,Eritrea, males ,obese ,>=30.0,2004
+677,Estonia, adults ,obese ,>=30.0,2002
+678,Estonia, adults ,obese ,>=30.0,2004
+679,Estonia, adults ,overweight ,>=25.0,2
+680,Estonia, adults ,overweight ,>=25.0,2002
+681,Estonia, adults ,overweight ,>=25.0,2004
+682,Estonia, adults ,pre-obese ,25.0-29.99,2
+683,Estonia, adults ,pre-obese ,25.0-29.99,2004
+684,Estonia, females ,obese ,>=30.0,2002
+685,Estonia, females ,obese ,>=30.0,2004
+686,Estonia, females ,overweight ,>=25.0,2
+687,Estonia, females ,overweight ,>=25.0,2002
+688,Estonia, females ,overweight ,>=25.0,2004
+689,Estonia, females ,pre-obese ,25.0-29.99,2
+690,Estonia, females ,pre-obese ,25.0-29.99,2004
+691,Estonia, males ,obese ,>=30.0,2002
+692,Estonia, males ,obese ,>=30.0,2004
+693,Estonia, males ,overweight ,>=25.0,2
+694,Estonia, males ,overweight ,>=25.0,2002
+695,Estonia, males ,overweight ,>=25.0,2004
+696,Estonia, males ,pre-obese ,25.0-29.99,2
+697,Estonia, males ,pre-obese ,25.0-29.99,2004
+698,Ethiopia, females ,moderate and severe thinness ,<=17,2005
+699,Ethiopia, females ,normal ,18.5-24.99,2003
+700,Ethiopia, females ,normal ,18.5-24.99,2004
+701,Ethiopia, females ,normal ,18.5-24.99,2005
+702,Ethiopia, females ,obese ,>=30.0,2
+703,Ethiopia, females ,obese ,>=30.0,2005
+704,Ethiopia, females ,overweight ,>=25.0,2
+705,Ethiopia, females ,overweight ,>=25.0,2003
+706,Ethiopia, females ,overweight ,>=25.0,2004
+707,Ethiopia, females ,overweight ,>=25.0,2005
+708,Ethiopia, females ,pre-obese ,25.0-29.99,2005
+709,Ethiopia, females ,underweight ,<18.5,2
+710,Ethiopia, females ,underweight ,<18.5,2003
+711,Ethiopia, females ,underweight ,<18.5,2004
+712,Ethiopia, females ,underweight ,<18.5,2005
+713,Ethiopia, males ,normal ,18.5-24.99,2003
+714,Ethiopia, males ,normal ,18.5-24.99,2004
+715,Ethiopia, males ,overweight ,>=25.0,2003
+716,Ethiopia, males ,overweight ,>=25.0,2004
+717,Ethiopia, males ,underweight ,<18.5,2003
+718,Ethiopia, males ,underweight ,<18.5,2004
+719,Fiji, adults ,normal ,18.5-24.99,2004
+720,Fiji, adults ,obese ,>=30.0,2004
+721,Fiji, adults ,overweight ,>=25.0,2004
+722,Fiji, adults ,pre-obese ,25.0-29.99,2004
+723,Fiji, adults ,underweight ,<18.5,2004
+724,Fiji, females ,normal ,18.5-24.99,2004
+725,Fiji, females ,obese ,>=30.0,2002
+726,Fiji, females ,obese ,>=30.0,2004
+727,Fiji, females ,overweight ,>=25.0,2004
+728,Fiji, females ,pre-obese ,25.0-29.99,2004
+729,Fiji, females ,underweight ,<18.5,2004
+730,Fiji, males ,normal ,18.5-24.99,2004
+731,Fiji, males ,obese ,>=30.0,2002
+732,Fiji, males ,obese ,>=30.0,2004
+733,Fiji, males ,overweight ,>=25.0,2004
+734,Fiji, males ,pre-obese ,25.0-29.99,2004
+735,Fiji, males ,underweight ,<18.5,2004
+736,Finland, adults ,normal ,18.5-24.99,2001
+737,Finland, adults ,normal ,18.5-24.99,2003
+738,Finland, adults ,obese ,>=30.0,1999
+739,Finland, adults ,obese ,>=30.0,2
+740,Finland, adults ,obese ,>=30.0,2001
+741,Finland, adults ,obese ,>=30.0,2002
+742,Finland, adults ,obese ,>=30.0,2003
+743,Finland, adults ,obese ,>=30.0,2004
+744,Finland, adults ,obese ,>=30.0,2005
+745,Finland, adults ,obese ,>=30.0,2008
+746,Finland, adults ,overweight ,>=25.0,1999
+747,Finland, adults ,overweight ,>=25.0,2
+748,Finland, adults ,overweight ,>=25.0,2001
+749,Finland, adults ,overweight ,>=25.0,2002
+750,Finland, adults ,overweight ,>=25.0,2003
+751,Finland, adults ,overweight ,>=25.0,2004
+752,Finland, adults ,overweight ,>=25.0,2005
+753,Finland, adults ,overweight ,>=25.0,2008
+754,Finland, adults ,pre-obese ,25.0-29.99,1999
+755,Finland, adults ,pre-obese ,25.0-29.99,2001
+756,Finland, adults ,pre-obese ,25.0-29.99,2003
+757,Finland, adults ,pre-obese ,25.0-29.99,2005
+758,Finland, adults ,pre-obese ,25.0-29.99,2008
+759,Finland, adults ,underweight ,<18.5,2001
+760,Finland, adults ,underweight ,<18.5,2003
+761,Finland, females ,normal ,18.5-24.99,2001
+762,Finland, females ,normal ,18.5-24.99,2003
+763,Finland, females ,obese ,>=30.0,1999
+764,Finland, females ,obese ,>=30.0,2
+765,Finland, females ,obese ,>=30.0,2001
+766,Finland, females ,obese ,>=30.0,2002
+767,Finland, females ,obese ,>=30.0,2003
+768,Finland, females ,obese ,>=30.0,2004
+769,Finland, females ,obese ,>=30.0,2005
+770,Finland, females ,obese ,>=30.0,2008
+771,Finland, females ,overweight ,>=25.0,1999
+772,Finland, females ,overweight ,>=25.0,2
+773,Finland, females ,overweight ,>=25.0,2001
+774,Finland, females ,overweight ,>=25.0,2002
+775,Finland, females ,overweight ,>=25.0,2003
+776,Finland, females ,overweight ,>=25.0,2004
+777,Finland, females ,overweight ,>=25.0,2005
+778,Finland, females ,overweight ,>=25.0,2008
+779,Finland, females ,pre-obese ,25.0-29.99,1999
+780,Finland, females ,pre-obese ,25.0-29.99,2001
+781,Finland, females ,pre-obese ,25.0-29.99,2003
+782,Finland, females ,pre-obese ,25.0-29.99,2005
+783,Finland, females ,pre-obese ,25.0-29.99,2008
+784,Finland, females ,underweight ,<18.5,2001
+785,Finland, females ,underweight ,<18.5,2003
+786,Finland, males ,normal ,18.5-24.99,2001
+787,Finland, males ,normal ,18.5-24.99,2003
+788,Finland, males ,obese ,>=30.0,1999
+789,Finland, males ,obese ,>=30.0,2
+790,Finland, males ,obese ,>=30.0,2001
+791,Finland, males ,obese ,>=30.0,2002
+792,Finland, males ,obese ,>=30.0,2003
+793,Finland, males ,obese ,>=30.0,2004
+794,Finland, males ,obese ,>=30.0,2005
+795,Finland, males ,obese ,>=30.0,2008
+796,Finland, males ,overweight ,>=25.0,1999
+797,Finland, males ,overweight ,>=25.0,2
+798,Finland, males ,overweight ,>=25.0,2001
+799,Finland, males ,overweight ,>=25.0,2002
+800,Finland, males ,overweight ,>=25.0,2003
+801,Finland, males ,overweight ,>=25.0,2004
+802,Finland, males ,overweight ,>=25.0,2005
+803,Finland, males ,overweight ,>=25.0,2008
+804,Finland, males ,pre-obese ,25.0-29.99,1999
+805,Finland, males ,pre-obese ,25.0-29.99,2001
+806,Finland, males ,pre-obese ,25.0-29.99,2003
+807,Finland, males ,pre-obese ,25.0-29.99,2005
+808,Finland, males ,pre-obese ,25.0-29.99,2008
+809,Finland, males ,underweight ,<18.5,2001
+810,Finland, males ,underweight ,<18.5,2003
+811,France, adults ,normal ,18.5-24.99,2006
+812,France, adults ,obese ,>=30.0,2
+813,France, adults ,obese ,>=30.0,2003
+814,France, adults ,obese ,>=30.0,2006
+815,France, adults ,obese ,>=30.0,2007
+816,France, adults ,overweight ,>=25.0,2
+817,France, adults ,overweight ,>=25.0,2003
+818,France, adults ,overweight ,>=25.0,2006
+819,France, adults ,overweight ,>=25.0,2007
+820,France, adults ,pre-obese ,25.0-29.99,2
+821,France, adults ,pre-obese ,25.0-29.99,2003
+822,France, adults ,pre-obese ,25.0-29.99,2006
+823,France, adults ,pre-obese ,25.0-29.99,2007
+824,France, adults ,underweight ,<18.5,2006
+825,France, females ,obese ,>=30.0,2006
+826,France, females ,obese ,>=30.0,2007
+827,France, females ,overweight ,>=25.0,2006
+828,France, females ,overweight ,>=25.0,2007
+829,France, females ,pre-obese ,25.0-29.99,2006
+830,France, females ,pre-obese ,25.0-29.99,2007
+831,France, males ,obese ,>=30.0,2006
+832,France, males ,obese ,>=30.0,2007
+833,France, males ,overweight ,>=25.0,2006
+834,France, males ,overweight ,>=25.0,2007
+835,France, males ,pre-obese ,25.0-29.99,2006
+836,France, males ,pre-obese ,25.0-29.99,2007
+837,Gabon, females ,moderate and severe thinness ,<=17,2
+838,Gabon, females ,normal ,18.5-24.99,2
+839,Gabon, females ,obese ,>=30.0,2
+840,Gabon, females ,overweight ,>=25.0,2
+841,Gabon, females ,pre-obese ,25.0-29.99,2
+842,Gabon, females ,underweight ,<18.5,2
+843,Germany, adults ,obese ,>=30.0,1999
+844,Germany, adults ,obese ,>=30.0,2
+845,Germany, adults ,obese ,>=30.0,2001
+846,Germany, adults ,obese ,>=30.0,2002
+847,Germany, adults ,obese ,>=30.0,2003
+848,Germany, adults ,overweight ,>=25.0,1999
+849,Germany, adults ,overweight ,>=25.0,2
+850,Germany, adults ,overweight ,>=25.0,2001
+851,Germany, adults ,overweight ,>=25.0,2002
+852,Germany, adults ,overweight ,>=25.0,2003
+853,Germany, adults ,pre-obese ,25.0-29.99,1999
+854,Germany, adults ,pre-obese ,25.0-29.99,2
+855,Germany, adults ,pre-obese ,25.0-29.99,2001
+856,Germany, adults ,pre-obese ,25.0-29.99,2002
+857,Germany, adults ,pre-obese ,25.0-29.99,2003
+858,Germany, females ,obese ,>=30.0,1999
+859,Germany, females ,obese ,>=30.0,2
+860,Germany, females ,obese ,>=30.0,2001
+861,Germany, females ,obese ,>=30.0,2002
+862,Germany, females ,obese ,>=30.0,2003
+863,Germany, females ,overweight ,>=25.0,1999
+864,Germany, females ,overweight ,>=25.0,2
+865,Germany, females ,overweight ,>=25.0,2001
+866,Germany, females ,overweight ,>=25.0,2002
+867,Germany, females ,overweight ,>=25.0,2003
+868,Germany, females ,pre-obese ,25.0-29.99,1999
+869,Germany, females ,pre-obese ,25.0-29.99,2
+870,Germany, females ,pre-obese ,25.0-29.99,2001
+871,Germany, females ,pre-obese ,25.0-29.99,2002
+872,Germany, females ,pre-obese ,25.0-29.99,2003
+873,Germany, males ,obese ,>=30.0,1999
+874,Germany, males ,obese ,>=30.0,2
+875,Germany, males ,obese ,>=30.0,2001
+876,Germany, males ,obese ,>=30.0,2002
+877,Germany, males ,obese ,>=30.0,2003
+878,Germany, males ,overweight ,>=25.0,1999
+879,Germany, males ,overweight ,>=25.0,2
+880,Germany, males ,overweight ,>=25.0,2001
+881,Germany, males ,overweight ,>=25.0,2002
+882,Germany, males ,overweight ,>=25.0,2003
+883,Germany, males ,pre-obese ,25.0-29.99,1999
+884,Germany, males ,pre-obese ,25.0-29.99,2
+885,Germany, males ,pre-obese ,25.0-29.99,2001
+886,Germany, males ,pre-obese ,25.0-29.99,2002
+887,Germany, males ,pre-obese ,25.0-29.99,2003
+888,Ghana, females ,moderate and severe thinness ,<=17,2008
+889,Ghana, females ,normal ,18.5-24.99,2003
+890,Ghana, females ,normal ,18.5-24.99,2008
+891,Ghana, females ,obese ,>=30.0,1999
+892,Ghana, females ,obese ,>=30.0,2003
+893,Ghana, females ,obese ,>=30.0,2008
+894,Ghana, females ,overweight ,>=25.0,1999
+895,Ghana, females ,overweight ,>=25.0,2003
+896,Ghana, females ,overweight ,>=25.0,2008
+897,Ghana, females ,pre-obese ,25.0-29.99,2003
+898,Ghana, females ,pre-obese ,25.0-29.99,2008
+899,Ghana, females ,underweight ,<18.5,1999
+900,Ghana, females ,underweight ,<18.5,2003
+901,Ghana, females ,underweight ,<18.5,2008
+902,Greece, adults ,obese ,>=30.0,2003
+903,Greece, adults ,overweight ,>=25.0,2003
+904,Greece, adults ,pre-obese ,25.0-29.99,2003
+905,Greece, females ,obese ,>=30.0,2003
+906,Greece, females ,obese ,>=30.0,2004
+907,Greece, females ,overweight ,>=25.0,2003
+908,Greece, females ,pre-obese ,25.0-29.99,2003
+909,Greece, males ,obese ,>=30.0,2003
+910,Greece, males ,obese ,>=30.0,2004
+911,Greece, males ,overweight ,>=25.0,2003
+912,Greece, males ,pre-obese ,25.0-29.99,2003
+913,Guatemala, females ,obese ,>=30.0,1999
+914,Guatemala, females ,overweight ,>=25.0,1999
+915,Guatemala, females ,underweight ,<18.5,1999
+916,Guinea, females ,moderate and severe thinness ,<=17,1999
+917,Guinea, females ,moderate and severe thinness ,<=17,2005
+918,Guinea, females ,normal ,18.5-24.99,1999
+919,Guinea, females ,normal ,18.5-24.99,2005
+920,Guinea, females ,obese ,>=30.0,1999
+921,Guinea, females ,obese ,>=30.0,2005
+922,Guinea, females ,overweight ,>=25.0,1999
+923,Guinea, females ,overweight ,>=25.0,2005
+924,Guinea, females ,pre-obese ,25.0-29.99,1999
+925,Guinea, females ,pre-obese ,25.0-29.99,2005
+926,Guinea, females ,underweight ,<18.5,1999
+927,Guinea, females ,underweight ,<18.5,2005
+928,Haiti, females ,moderate and severe thinness ,<=17,2005
+929,Haiti, females ,moderate and severe thinness ,<=17,2006
+930,Haiti, females ,normal ,18.5-24.99,2005
+931,Haiti, females ,normal ,18.5-24.99,2006
+932,Haiti, females ,obese ,>=30.0,2
+933,Haiti, females ,obese ,>=30.0,2005
+934,Haiti, females ,obese ,>=30.0,2006
+935,Haiti, females ,overweight ,>=25.0,2
+936,Haiti, females ,overweight ,>=25.0,2005
+937,Haiti, females ,overweight ,>=25.0,2006
+938,Haiti, females ,pre-obese ,25.0-29.99,2005
+939,Haiti, females ,pre-obese ,25.0-29.99,2006
+940,Haiti, females ,underweight ,<18.5,2005
+941,Haiti, females ,underweight ,<18.5,2006
+942,Honduras, females ,moderate and severe thinness ,<=17,2005
+943,Honduras, females ,moderate and severe thinness ,<=17,2006
+944,Honduras, females ,normal ,18.5-24.99,2005
+945,Honduras, females ,normal ,18.5-24.99,2006
+946,Honduras, females ,obese ,>=30.0,2005
+947,Honduras, females ,obese ,>=30.0,2006
+948,Honduras, females ,overweight ,>=25.0,2005
+949,Honduras, females ,overweight ,>=25.0,2006
+950,Honduras, females ,pre-obese ,25.0-29.99,2005
+951,Honduras, females ,pre-obese ,25.0-29.99,2006
+952,Honduras, females ,underweight ,<18.5,2005
+953,Honduras, females ,underweight ,<18.5,2006
+954,Hungary, adults ,normal ,18.5-24.99,2003
+955,Hungary, adults ,normal ,18.5-24.99,2004
+956,Hungary, adults ,obese ,>=30.0,2
+957,Hungary, adults ,obese ,>=30.0,2003
+958,Hungary, adults ,obese ,>=30.0,2004
+959,Hungary, adults ,overweight ,>=25.0,2003
+960,Hungary, adults ,overweight ,>=25.0,2004
+961,Hungary, adults ,pre-obese ,25.0-29.99,2
+962,Hungary, adults ,pre-obese ,25.0-29.99,2003
+963,Hungary, adults ,pre-obese ,25.0-29.99,2004
+964,Hungary, adults ,underweight ,<18.5,2003
+965,Hungary, adults ,underweight ,<18.5,2004
+966,Hungary, females ,normal ,18.5-24.99,2003
+967,Hungary, females ,normal ,18.5-24.99,2004
+968,Hungary, females ,obese ,>=30.0,2
+969,Hungary, females ,obese ,>=30.0,2003
+970,Hungary, females ,obese ,>=30.0,2004
+971,Hungary, females ,overweight ,>=25.0,2003
+972,Hungary, females ,overweight ,>=25.0,2004
+973,Hungary, females ,pre-obese ,25.0-29.99,2
+974,Hungary, females ,pre-obese ,25.0-29.99,2003
+975,Hungary, females ,pre-obese ,25.0-29.99,2004
+976,Hungary, females ,underweight ,<18.5,2003
+977,Hungary, females ,underweight ,<18.5,2004
+978,Hungary, males ,normal ,18.5-24.99,2003
+979,Hungary, males ,normal ,18.5-24.99,2004
+980,Hungary, males ,obese ,>=30.0,2
+981,Hungary, males ,obese ,>=30.0,2003
+982,Hungary, males ,obese ,>=30.0,2004
+983,Hungary, males ,overweight ,>=25.0,2003
+984,Hungary, males ,overweight ,>=25.0,2004
+985,Hungary, males ,pre-obese ,25.0-29.99,2
+986,Hungary, males ,pre-obese ,25.0-29.99,2003
+987,Hungary, males ,pre-obese ,25.0-29.99,2004
+988,Hungary, males ,underweight ,<18.5,2003
+989,Hungary, males ,underweight ,<18.5,2004
+990,Iceland, adults ,normal ,18.5-24.99,2002
+991,Iceland, adults ,obese ,>=30.0,2002
+992,Iceland, adults ,overweight ,>=25.0,2002
+993,Iceland, adults ,pre-obese ,25.0-29.99,2002
+994,Iceland, adults ,underweight ,<18.5,2002
+995,Iceland, females ,normal ,18.5-24.99,2002
+996,Iceland, females ,obese ,>=30.0,2002
+997,Iceland, females ,overweight ,>=25.0,2002
+998,Iceland, females ,pre-obese ,25.0-29.99,2002
+999,Iceland, females ,underweight ,<18.5,2002
+1000,Iceland, males ,normal ,18.5-24.99,2002
+1001,Iceland, males ,obese ,>=30.0,2002
+1002,Iceland, males ,overweight ,>=25.0,2002
+1003,Iceland, males ,pre-obese ,25.0-29.99,2002
+1004,Iceland, males ,underweight ,<18.5,2002
+1005,India, females ,moderate and severe thinness ,<=17,2005
+1006,India, females ,moderate and severe thinness ,<=17,2006
+1007,India, females ,normal ,18.5-24.99,1999
+1008,India, females ,normal ,18.5-24.99,2005
+1009,India, females ,normal ,18.5-24.99,2006
+1010,India, females ,obese ,>=30.0,1999
+1011,India, females ,obese ,>=30.0,2005
+1012,India, females ,obese ,>=30.0,2006
+1013,India, females ,overweight ,>=25.0,1999
+1014,India, females ,overweight ,>=25.0,2005
+1015,India, females ,overweight ,>=25.0,2006
+1016,India, females ,pre-obese ,25.0-29.99,2005
+1017,India, females ,pre-obese ,25.0-29.99,2006
+1018,India, females ,underweight ,<18.5,1999
+1019,India, females ,underweight ,<18.5,2005
+1020,India, females ,underweight ,<18.5,2006
+1021,India, males ,moderate and severe thinness ,<=17,2005
+1022,India, males ,moderate and severe thinness ,<=17,2006
+1023,India, males ,normal ,18.5-24.99,2005
+1024,India, males ,normal ,18.5-24.99,2006
+1025,India, males ,obese ,>=30.0,2005
+1026,India, males ,obese ,>=30.0,2006
+1027,India, males ,overweight ,>=25.0,2005
+1028,India, males ,overweight ,>=25.0,2006
+1029,India, males ,pre-obese ,25.0-29.99,2005
+1030,India, males ,pre-obese ,25.0-29.99,2006
+1031,India, males ,underweight ,<18.5,2005
+1032,India, males ,underweight ,<18.5,2006
+1033,Indonesia, adults ,obese ,>=30.0,2001
+1034,Indonesia, adults ,overweight ,>=25.0,2001
+1035,Indonesia, females ,obese ,>=30.0,2001
+1036,Indonesia, females ,overweight ,>=25.0,2001
+1037,Indonesia, males ,obese ,>=30.0,2001
+1038,Indonesia, males ,overweight ,>=25.0,2001
+1039,Iran (Islamic Republic of), adults ,normal ,18.5-24.99,2005
+1040,Iran (Islamic Republic of), adults ,obese ,>=30.0,1999
+1041,Iran (Islamic Republic of), adults ,obese ,>=30.0,2004
+1042,Iran (Islamic Republic of), adults ,obese ,>=30.0,2005
+1043,Iran (Islamic Republic of), adults ,overweight ,>=25.0,1999
+1044,Iran (Islamic Republic of), adults ,overweight ,>=25.0,2004
+1045,Iran (Islamic Republic of), adults ,overweight ,>=25.0,2005
+1046,Iran (Islamic Republic of), adults ,pre-obese ,25.0-29.99,1999
+1047,Iran (Islamic Republic of), adults ,pre-obese ,25.0-29.99,2004
+1048,Iran (Islamic Republic of), adults ,pre-obese ,25.0-29.99,2005
+1049,Iran (Islamic Republic of), adults ,underweight ,<18.5,2004
+1050,Iran (Islamic Republic of), adults ,underweight ,<18.5,2005
+1051,Iran (Islamic Republic of), females ,normal ,18.5-24.99,2004
+1052,Iran (Islamic Republic of), females ,normal ,18.5-24.99,2005
+1053,Iran (Islamic Republic of), females ,obese ,>=30.0,1999
+1054,Iran (Islamic Republic of), females ,obese ,>=30.0,2004
+1055,Iran (Islamic Republic of), females ,obese ,>=30.0,2005
+1056,Iran (Islamic Republic of), females ,overweight ,>=25.0,1999
+1057,Iran (Islamic Republic of), females ,overweight ,>=25.0,2005
+1058,Iran (Islamic Republic of), females ,pre-obese ,25.0-29.99,1999
+1059,Iran (Islamic Republic of), females ,pre-obese ,25.0-29.99,2004
+1060,Iran (Islamic Republic of), females ,pre-obese ,25.0-29.99,2005
+1061,Iran (Islamic Republic of), females ,underweight ,<18.5,2004
+1062,Iran (Islamic Republic of), females ,underweight ,<18.5,2005
+1063,Iran (Islamic Republic of), males ,normal ,18.5-24.99,2004
+1064,Iran (Islamic Republic of), males ,normal ,18.5-24.99,2005
+1065,Iran (Islamic Republic of), males ,obese ,>=30.0,1999
+1066,Iran (Islamic Republic of), males ,obese ,>=30.0,2004
+1067,Iran (Islamic Republic of), males ,obese ,>=30.0,2005
+1068,Iran (Islamic Republic of), males ,overweight ,>=25.0,1999
+1069,Iran (Islamic Republic of), males ,overweight ,>=25.0,2005
+1070,Iran (Islamic Republic of), males ,pre-obese ,25.0-29.99,1999
+1071,Iran (Islamic Republic of), males ,pre-obese ,25.0-29.99,2004
+1072,Iran (Islamic Republic of), males ,pre-obese ,25.0-29.99,2005
+1073,Iran (Islamic Republic of), males ,underweight ,<18.5,2004
+1074,Iran (Islamic Republic of), males ,underweight ,<18.5,2005
+1075,Iraq, females ,obese ,>=30.0,2006
+1076,Iraq, females ,overweight ,>=25.0,2006
+1077,Iraq, males ,obese ,>=30.0,2006
+1078,Iraq, males ,overweight ,>=25.0,2006
+1079,Ireland, adults ,normal ,18.5-24.99,1999
+1080,Ireland, adults ,obese ,>=30.0,1999
+1081,Ireland, adults ,obese ,>=30.0,2002
+1082,Ireland, adults ,overweight ,>=25.0,1999
+1083,Ireland, adults ,pre-obese ,25.0-29.99,1999
+1084,Ireland, adults ,pre-obese ,25.0-29.99,2002
+1085,Ireland, adults ,underweight ,<18.5,1999
+1086,Ireland, females ,normal ,18.5-24.99,1999
+1087,Ireland, females ,normal ,18.5-24.99,2007
+1088,Ireland, females ,obese ,>=30.0,1999
+1089,Ireland, females ,obese ,>=30.0,2002
+1090,Ireland, females ,obese ,>=30.0,2007
+1091,Ireland, females ,overweight ,>=25.0,1999
+1092,Ireland, females ,overweight ,>=25.0,2007
+1093,Ireland, females ,pre-obese ,25.0-29.99,1999
+1094,Ireland, females ,pre-obese ,25.0-29.99,2002
+1095,Ireland, females ,pre-obese ,25.0-29.99,2007
+1096,Ireland, females ,underweight ,<18.5,1999
+1097,Ireland, females ,underweight ,<18.5,2007
+1098,Ireland, males ,normal ,18.5-24.99,1999
+1099,Ireland, males ,normal ,18.5-24.99,2007
+1100,Ireland, males ,obese ,>=30.0,1999
+1101,Ireland, males ,obese ,>=30.0,2002
+1102,Ireland, males ,obese ,>=30.0,2007
+1103,Ireland, males ,overweight ,>=25.0,1999
+1104,Ireland, males ,overweight ,>=25.0,2007
+1105,Ireland, males ,pre-obese ,25.0-29.99,1999
+1106,Ireland, males ,pre-obese ,25.0-29.99,2002
+1107,Ireland, males ,pre-obese ,25.0-29.99,2007
+1108,Ireland, males ,underweight ,<18.5,1999
+1109,Ireland, males ,underweight ,<18.5,2007
+1110,Israel, adults ,obese ,>=30.0,1999
+1111,Israel, adults ,obese ,>=30.0,2
+1112,Israel, adults ,obese ,>=30.0,2001
+1113,Israel, adults ,overweight ,>=25.0,1999
+1114,Israel, adults ,overweight ,>=25.0,2
+1115,Israel, adults ,overweight ,>=25.0,2001
+1116,Israel, adults ,pre-obese ,25.0-29.99,1999
+1117,Israel, adults ,pre-obese ,25.0-29.99,2
+1118,Israel, adults ,pre-obese ,25.0-29.99,2001
+1119,Israel, females ,obese ,>=30.0,1999
+1120,Israel, females ,obese ,>=30.0,2
+1121,Israel, females ,obese ,>=30.0,2001
+1122,Israel, females ,overweight ,>=25.0,1999
+1123,Israel, females ,overweight ,>=25.0,2
+1124,Israel, females ,overweight ,>=25.0,2001
+1125,Israel, males ,obese ,>=30.0,1999
+1126,Israel, males ,obese ,>=30.0,2
+1127,Israel, males ,obese ,>=30.0,2001
+1128,Israel, males ,overweight ,>=25.0,1999
+1129,Israel, males ,overweight ,>=25.0,2
+1130,Israel, males ,overweight ,>=25.0,2001
+1131,Italy, adults ,normal ,18.5-24.99,2002
+1132,Italy, adults ,normal ,18.5-24.99,2003
+1133,Italy, adults ,normal ,18.5-24.99,2004
+1134,Italy, adults ,normal ,18.5-24.99,2005
+1135,Italy, adults ,obese ,>=30.0,2002
+1136,Italy, adults ,obese ,>=30.0,2003
+1137,Italy, adults ,obese ,>=30.0,2004
+1138,Italy, adults ,obese ,>=30.0,2005
+1139,Italy, adults ,overweight ,>=25.0,2002
+1140,Italy, adults ,overweight ,>=25.0,2003
+1141,Italy, adults ,overweight ,>=25.0,2004
+1142,Italy, adults ,overweight ,>=25.0,2005
+1143,Italy, adults ,pre-obese ,25.0-29.99,2002
+1144,Italy, adults ,pre-obese ,25.0-29.99,2003
+1145,Italy, adults ,pre-obese ,25.0-29.99,2004
+1146,Italy, adults ,pre-obese ,25.0-29.99,2005
+1147,Italy, adults ,underweight ,<18.5,2002
+1148,Italy, adults ,underweight ,<18.5,2003
+1149,Italy, adults ,underweight ,<18.5,2004
+1150,Italy, adults ,underweight ,<18.5,2005
+1151,Italy, females ,normal ,18.5-24.99,2002
+1152,Italy, females ,normal ,18.5-24.99,2003
+1153,Italy, females ,normal ,18.5-24.99,2004
+1154,Italy, females ,normal ,18.5-24.99,2005
+1155,Italy, females ,obese ,>=30.0,2002
+1156,Italy, females ,obese ,>=30.0,2003
+1157,Italy, females ,obese ,>=30.0,2004
+1158,Italy, females ,obese ,>=30.0,2005
+1159,Italy, females ,overweight ,>=25.0,2002
+1160,Italy, females ,overweight ,>=25.0,2003
+1161,Italy, females ,overweight ,>=25.0,2004
+1162,Italy, females ,overweight ,>=25.0,2005
+1163,Italy, females ,pre-obese ,25.0-29.99,2002
+1164,Italy, females ,pre-obese ,25.0-29.99,2003
+1165,Italy, females ,pre-obese ,25.0-29.99,2004
+1166,Italy, females ,pre-obese ,25.0-29.99,2005
+1167,Italy, females ,underweight ,<18.5,2002
+1168,Italy, females ,underweight ,<18.5,2003
+1169,Italy, females ,underweight ,<18.5,2004
+1170,Italy, females ,underweight ,<18.5,2005
+1171,Italy, males ,normal ,18.5-24.99,2002
+1172,Italy, males ,normal ,18.5-24.99,2003
+1173,Italy, males ,normal ,18.5-24.99,2004
+1174,Italy, males ,normal ,18.5-24.99,2005
+1175,Italy, males ,obese ,>=30.0,2002
+1176,Italy, males ,obese ,>=30.0,2003
+1177,Italy, males ,obese ,>=30.0,2004
+1178,Italy, males ,obese ,>=30.0,2005
+1179,Italy, males ,overweight ,>=25.0,2002
+1180,Italy, males ,overweight ,>=25.0,2003
+1181,Italy, males ,overweight ,>=25.0,2004
+1182,Italy, males ,overweight ,>=25.0,2005
+1183,Italy, males ,pre-obese ,25.0-29.99,2002
+1184,Italy, males ,pre-obese ,25.0-29.99,2003
+1185,Italy, males ,pre-obese ,25.0-29.99,2004
+1186,Italy, males ,pre-obese ,25.0-29.99,2005
+1187,Italy, males ,underweight ,<18.5,2002
+1188,Italy, males ,underweight ,<18.5,2003
+1189,Italy, males ,underweight ,<18.5,2004
+1190,Italy, males ,underweight ,<18.5,2005
+1191,Japan, adults ,normal ,18.5-24.99,1999
+1192,Japan, adults ,obese ,>=30.0,2001
+1193,Japan, adults ,overweight ,>=25.0,1999
+1194,Japan, adults ,overweight ,>=25.0,2001
+1195,Japan, adults ,overweight ,>=25.0,2004
+1196,Japan, adults ,pre-obese ,25.0-29.99,2001
+1197,Japan, adults ,underweight ,<18.5,1999
+1198,Japan, females ,normal ,18.5-24.99,1999
+1199,Japan, females ,normal ,18.5-24.99,2003
+1200,Japan, females ,obese ,>=30.0,2001
+1201,Japan, females ,overweight ,>=25.0,1999
+1202,Japan, females ,overweight ,>=25.0,2
+1203,Japan, females ,overweight ,>=25.0,2003
+1204,Japan, females ,overweight ,>=25.0,2004
+1205,Japan, females ,pre-obese ,25.0-29.99,2001
+1206,Japan, females ,underweight ,<18.5,1999
+1207,Japan, females ,underweight ,<18.5,2003
+1208,Japan, males ,normal ,18.5-24.99,1999
+1209,Japan, males ,normal ,18.5-24.99,2003
+1210,Japan, males ,obese ,>=30.0,2001
+1211,Japan, males ,overweight ,>=25.0,1999
+1212,Japan, males ,overweight ,>=25.0,2
+1213,Japan, males ,overweight ,>=25.0,2003
+1214,Japan, males ,overweight ,>=25.0,2004
+1215,Japan, males ,pre-obese ,25.0-29.99,2001
+1216,Japan, males ,underweight ,<18.5,1999
+1217,Japan, males ,underweight ,<18.5,2003
+1218,Jordan, adults ,normal ,18.5-24.99,2004
+1219,Jordan, adults ,obese ,>=30.0,2004
+1220,Jordan, adults ,overweight ,>=25.0,2004
+1221,Jordan, adults ,pre-obese ,25.0-29.99,2004
+1222,Jordan, adults ,underweight ,<18.5,2004
+1223,Jordan, females ,moderate and severe thinness ,<=17,2007
+1224,Jordan, females ,normal ,18.5-24.99,2002
+1225,Jordan, females ,normal ,18.5-24.99,2007
+1226,Jordan, females ,obese ,>=30.0,2002
+1227,Jordan, females ,obese ,>=30.0,2007
+1228,Jordan, females ,overweight ,>=25.0,2002
+1229,Jordan, females ,overweight ,>=25.0,2007
+1230,Jordan, females ,pre-obese ,25.0-29.99,2002
+1231,Jordan, females ,pre-obese ,25.0-29.99,2007
+1232,Jordan, females ,underweight ,<18.5,2002
+1233,Jordan, females ,underweight ,<18.5,2007
+1234,Jordan, males ,obese ,>=30.0,2002
+1235,Kazakhstan, females ,obese ,>=30.0,1999
+1236,Kazakhstan, females ,overweight ,>=25.0,1999
+1237,Kazakhstan, females ,underweight ,<18.5,1999
+1238,Kenya, females ,moderate and severe thinness ,<=17,2003
+1239,Kenya, females ,normal ,18.5-24.99,2003
+1240,Kenya, females ,obese ,>=30.0,2003
+1241,Kenya, females ,overweight ,>=25.0,2003
+1242,Kenya, females ,pre-obese ,25.0-29.99,2003
+1243,Kenya, females ,underweight ,<18.5,2003
+1244,Kiribati, adults ,normal ,18.5-24.99,2004
+1245,Kiribati, adults ,normal ,18.5-24.99,2005
+1246,Kiribati, adults ,normal ,18.5-24.99,2006
+1247,Kiribati, adults ,obese ,>=30.0,2004
+1248,Kiribati, adults ,obese ,>=30.0,2005
+1249,Kiribati, adults ,obese ,>=30.0,2006
+1250,Kiribati, adults ,overweight ,>=25.0,2004
+1251,Kiribati, adults ,overweight ,>=25.0,2005
+1252,Kiribati, adults ,overweight ,>=25.0,2006
+1253,Kiribati, adults ,pre-obese ,25.0-29.99,2004
+1254,Kiribati, adults ,pre-obese ,25.0-29.99,2005
+1255,Kiribati, adults ,pre-obese ,25.0-29.99,2006
+1256,Kiribati, adults ,underweight ,<18.5,2004
+1257,Kiribati, adults ,underweight ,<18.5,2005
+1258,Kiribati, adults ,underweight ,<18.5,2006
+1259,Kiribati, females ,normal ,18.5-24.99,2004
+1260,Kiribati, females ,normal ,18.5-24.99,2005
+1261,Kiribati, females ,normal ,18.5-24.99,2006
+1262,Kiribati, females ,obese ,>=30.0,2004
+1263,Kiribati, females ,obese ,>=30.0,2005
+1264,Kiribati, females ,obese ,>=30.0,2006
+1265,Kiribati, females ,overweight ,>=25.0,2004
+1266,Kiribati, females ,overweight ,>=25.0,2005
+1267,Kiribati, females ,overweight ,>=25.0,2006
+1268,Kiribati, females ,pre-obese ,25.0-29.99,2004
+1269,Kiribati, females ,pre-obese ,25.0-29.99,2005
+1270,Kiribati, females ,pre-obese ,25.0-29.99,2006
+1271,Kiribati, females ,underweight ,<18.5,2004
+1272,Kiribati, females ,underweight ,<18.5,2005
+1273,Kiribati, females ,underweight ,<18.5,2006
+1274,Kiribati, males ,normal ,18.5-24.99,2004
+1275,Kiribati, males ,normal ,18.5-24.99,2005
+1276,Kiribati, males ,normal ,18.5-24.99,2006
+1277,Kiribati, males ,obese ,>=30.0,2004
+1278,Kiribati, males ,obese ,>=30.0,2005
+1279,Kiribati, males ,obese ,>=30.0,2006
+1280,Kiribati, males ,overweight ,>=25.0,2004
+1281,Kiribati, males ,overweight ,>=25.0,2005
+1282,Kiribati, males ,overweight ,>=25.0,2006
+1283,Kiribati, males ,pre-obese ,25.0-29.99,2004
+1284,Kiribati, males ,pre-obese ,25.0-29.99,2005
+1285,Kiribati, males ,pre-obese ,25.0-29.99,2006
+1286,Kiribati, males ,underweight ,<18.5,2004
+1287,Kiribati, males ,underweight ,<18.5,2005
+1288,Kiribati, males ,underweight ,<18.5,2006
+1289,Kuwait, adults ,normal ,18.5-24.99,1999
+1290,Kuwait, adults ,normal ,18.5-24.99,2
+1291,Kuwait, adults ,obese ,>=30.0,1999
+1292,Kuwait, adults ,obese ,>=30.0,2
+1293,Kuwait, adults ,overweight ,>=25.0,1999
+1294,Kuwait, adults ,overweight ,>=25.0,2
+1295,Kuwait, adults ,pre-obese ,25.0-29.99,1999
+1296,Kuwait, adults ,pre-obese ,25.0-29.99,2
+1297,Kuwait, adults ,underweight ,<18.5,1999
+1298,Kuwait, adults ,underweight ,<18.5,2
+1299,Kuwait, females ,normal ,18.5-24.99,1999
+1300,Kuwait, females ,normal ,18.5-24.99,2
+1301,Kuwait, females ,obese ,>=30.0,1999
+1302,Kuwait, females ,obese ,>=30.0,2
+1303,Kuwait, females ,overweight ,>=25.0,1999
+1304,Kuwait, females ,overweight ,>=25.0,2
+1305,Kuwait, females ,pre-obese ,25.0-29.99,1999
+1306,Kuwait, females ,pre-obese ,25.0-29.99,2
+1307,Kuwait, females ,underweight ,<18.5,1999
+1308,Kuwait, females ,underweight ,<18.5,2
+1309,Kuwait, males ,normal ,18.5-24.99,1999
+1310,Kuwait, males ,normal ,18.5-24.99,2
+1311,Kuwait, males ,obese ,>=30.0,1999
+1312,Kuwait, males ,obese ,>=30.0,2
+1313,Kuwait, males ,overweight ,>=25.0,1999
+1314,Kuwait, males ,overweight ,>=25.0,2
+1315,Kuwait, males ,pre-obese ,25.0-29.99,1999
+1316,Kuwait, males ,pre-obese ,25.0-29.99,2
+1317,Kuwait, males ,underweight ,<18.5,1999
+1318,Kuwait, males ,underweight ,<18.5,2
+1319,Lao People's Democratic Republic, adults ,obese ,>=30.0,2
+1320,Lao People's Democratic Republic, adults ,overweight ,>=25.0,2
+1321,Lao People's Democratic Republic, females ,obese ,>=30.0,2
+1322,Lao People's Democratic Republic, females ,overweight ,>=25.0,2
+1323,Lao People's Democratic Republic, males ,obese ,>=30.0,2
+1324,Lao People's Democratic Republic, males ,overweight ,>=25.0,2
+1325,Latvia, adults ,normal ,18.5-24.99,2
+1326,Latvia, adults ,normal ,18.5-24.99,2002
+1327,Latvia, adults ,normal ,18.5-24.99,2004
+1328,Latvia, adults ,normal ,18.5-24.99,2006
+1329,Latvia, adults ,obese ,>=30.0,2
+1330,Latvia, adults ,obese ,>=30.0,2002
+1331,Latvia, adults ,obese ,>=30.0,2004
+1332,Latvia, adults ,obese ,>=30.0,2006
+1333,Latvia, adults ,overweight ,>=25.0,2
+1334,Latvia, adults ,overweight ,>=25.0,2002
+1335,Latvia, adults ,overweight ,>=25.0,2004
+1336,Latvia, adults ,overweight ,>=25.0,2006
+1337,Latvia, adults ,pre-obese ,25.0-29.99,2
+1338,Latvia, adults ,pre-obese ,25.0-29.99,2002
+1339,Latvia, adults ,pre-obese ,25.0-29.99,2004
+1340,Latvia, adults ,pre-obese ,25.0-29.99,2006
+1341,Latvia, adults ,underweight ,<18.5,2
+1342,Latvia, adults ,underweight ,<18.5,2002
+1343,Latvia, adults ,underweight ,<18.5,2004
+1344,Latvia, adults ,underweight ,<18.5,2006
+1345,Latvia, females ,normal ,18.5-24.99,2
+1346,Latvia, females ,normal ,18.5-24.99,2002
+1347,Latvia, females ,normal ,18.5-24.99,2004
+1348,Latvia, females ,normal ,18.5-24.99,2006
+1349,Latvia, females ,obese ,>=30.0,2
+1350,Latvia, females ,obese ,>=30.0,2002
+1351,Latvia, females ,obese ,>=30.0,2004
+1352,Latvia, females ,obese ,>=30.0,2006
+1353,Latvia, females ,overweight ,>=25.0,2
+1354,Latvia, females ,overweight ,>=25.0,2002
+1355,Latvia, females ,overweight ,>=25.0,2004
+1356,Latvia, females ,overweight ,>=25.0,2006
+1357,Latvia, females ,pre-obese ,25.0-29.99,2
+1358,Latvia, females ,pre-obese ,25.0-29.99,2002
+1359,Latvia, females ,pre-obese ,25.0-29.99,2006
+1360,Latvia, females ,underweight ,<18.5,2
+1361,Latvia, females ,underweight ,<18.5,2002
+1362,Latvia, females ,underweight ,<18.5,2004
+1363,Latvia, females ,underweight ,<18.5,2006
+1364,Latvia, males ,normal ,18.5-24.99,2
+1365,Latvia, males ,normal ,18.5-24.99,2002
+1366,Latvia, males ,normal ,18.5-24.99,2004
+1367,Latvia, males ,normal ,18.5-24.99,2006
+1368,Latvia, males ,obese ,>=30.0,2
+1369,Latvia, males ,obese ,>=30.0,2002
+1370,Latvia, males ,obese ,>=30.0,2004
+1371,Latvia, males ,obese ,>=30.0,2006
+1372,Latvia, males ,overweight ,>=25.0,2
+1373,Latvia, males ,overweight ,>=25.0,2002
+1374,Latvia, males ,overweight ,>=25.0,2004
+1375,Latvia, males ,overweight ,>=25.0,2006
+1376,Latvia, males ,pre-obese ,25.0-29.99,2
+1377,Latvia, males ,pre-obese ,25.0-29.99,2002
+1378,Latvia, males ,pre-obese ,25.0-29.99,2006
+1379,Latvia, males ,underweight ,<18.5,2
+1380,Latvia, males ,underweight ,<18.5,2002
+1381,Latvia, males ,underweight ,<18.5,2004
+1382,Latvia, males ,underweight ,<18.5,2006
+1383,Lebanon, adults ,obese ,>=30.0,2003
+1384,Lebanon, adults ,obese ,>=30.0,2004
+1385,Lebanon, adults ,pre-obese ,25.0-29.99,2003
+1386,Lebanon, adults ,pre-obese ,25.0-29.99,2004
+1387,Lesotho, adults ,overweight ,>=25.0,2001
+1388,Lesotho, adults ,pre-obese ,25.0-29.99,2001
+1389,Lesotho, females ,moderate and severe thinness ,<=17,2004
+1390,Lesotho, females ,moderate and severe thinness ,<=17,2005
+1391,Lesotho, females ,normal ,18.5-24.99,2004
+1392,Lesotho, females ,normal ,18.5-24.99,2005
+1393,Lesotho, females ,obese ,>=30.0,2004
+1394,Lesotho, females ,obese ,>=30.0,2005
+1395,Lesotho, females ,overweight ,>=25.0,2001
+1396,Lesotho, females ,overweight ,>=25.0,2004
+1397,Lesotho, females ,overweight ,>=25.0,2005
+1398,Lesotho, females ,pre-obese ,25.0-29.99,2004
+1399,Lesotho, females ,pre-obese ,25.0-29.99,2005
+1400,Lesotho, females ,underweight ,<18.5,2004
+1401,Lesotho, females ,underweight ,<18.5,2005
+1402,Lesotho, males ,overweight ,>=25.0,2001
+1403,Liberia, females ,moderate and severe thinness ,<=17,2006
+1404,Liberia, females ,moderate and severe thinness ,<=17,2007
+1405,Liberia, females ,normal ,18.5-24.99,2006
+1406,Liberia, females ,normal ,18.5-24.99,2007
+1407,Liberia, females ,obese ,>=30.0,2006
+1408,Liberia, females ,obese ,>=30.0,2007
+1409,Liberia, females ,overweight ,>=25.0,2006
+1410,Liberia, females ,overweight ,>=25.0,2007
+1411,Liberia, females ,pre-obese ,25.0-29.99,2006
+1412,Liberia, females ,pre-obese ,25.0-29.99,2007
+1413,Liberia, females ,underweight ,<18.5,2006
+1414,Liberia, females ,underweight ,<18.5,2007
+1415,Lithuania, adults ,normal ,18.5-24.99,2004
+1416,Lithuania, adults ,obese ,>=30.0,2
+1417,Lithuania, adults ,obese ,>=30.0,2002
+1418,Lithuania, adults ,obese ,>=30.0,2004
+1419,Lithuania, adults ,obese ,>=30.0,2006
+1420,Lithuania, adults ,overweight ,>=25.0,2
+1421,Lithuania, adults ,overweight ,>=25.0,2002
+1422,Lithuania, adults ,overweight ,>=25.0,2004
+1423,Lithuania, adults ,overweight ,>=25.0,2006
+1424,Lithuania, adults ,pre-obese ,25.0-29.99,2002
+1425,Lithuania, adults ,pre-obese ,25.0-29.99,2004
+1426,Lithuania, adults ,pre-obese ,25.0-29.99,2006
+1427,Lithuania, adults ,underweight ,<18.5,2004
+1428,Lithuania, females ,normal ,18.5-24.99,2004
+1429,Lithuania, females ,obese ,>=30.0,2
+1430,Lithuania, females ,obese ,>=30.0,2002
+1431,Lithuania, females ,obese ,>=30.0,2004
+1432,Lithuania, females ,obese ,>=30.0,2006
+1433,Lithuania, females ,overweight ,>=25.0,2
+1434,Lithuania, females ,overweight ,>=25.0,2002
+1435,Lithuania, females ,overweight ,>=25.0,2004
+1436,Lithuania, females ,overweight ,>=25.0,2006
+1437,Lithuania, females ,pre-obese ,25.0-29.99,2002
+1438,Lithuania, females ,pre-obese ,25.0-29.99,2004
+1439,Lithuania, females ,pre-obese ,25.0-29.99,2006
+1440,Lithuania, females ,underweight ,<18.5,2004
+1441,Lithuania, males ,normal ,18.5-24.99,2004
+1442,Lithuania, males ,obese ,>=30.0,2
+1443,Lithuania, males ,obese ,>=30.0,2002
+1444,Lithuania, males ,obese ,>=30.0,2004
+1445,Lithuania, males ,obese ,>=30.0,2006
+1446,Lithuania, males ,overweight ,>=25.0,2
+1447,Lithuania, males ,overweight ,>=25.0,2002
+1448,Lithuania, males ,overweight ,>=25.0,2004
+1449,Lithuania, males ,overweight ,>=25.0,2006
+1450,Lithuania, males ,pre-obese ,25.0-29.99,2002
+1451,Lithuania, males ,pre-obese ,25.0-29.99,2004
+1452,Lithuania, males ,pre-obese ,25.0-29.99,2006
+1453,Lithuania, males ,underweight ,<18.5,2004
+1454,Madagascar, adults ,normal ,18.5-24.99,2005
+1455,Madagascar, adults ,obese ,>=30.0,2005
+1456,Madagascar, adults ,pre-obese ,25.0-29.99,2005
+1457,Madagascar, adults ,underweight ,<18.5,2005
+1458,Madagascar, females ,moderate and severe thinness ,<=17,2003
+1459,Madagascar, females ,moderate and severe thinness ,<=17,2004
+1460,Madagascar, females ,normal ,18.5-24.99,2003
+1461,Madagascar, females ,normal ,18.5-24.99,2004
+1462,Madagascar, females ,obese ,>=30.0,2003
+1463,Madagascar, females ,obese ,>=30.0,2004
+1464,Madagascar, females ,overweight ,>=25.0,2003
+1465,Madagascar, females ,overweight ,>=25.0,2004
+1466,Madagascar, females ,pre-obese ,25.0-29.99,2003
+1467,Madagascar, females ,pre-obese ,25.0-29.99,2004
+1468,Madagascar, females ,underweight ,<18.5,2003
+1469,Madagascar, females ,underweight ,<18.5,2004
+1470,Malawi, females ,normal ,18.5-24.99,2004
+1471,Malawi, females ,normal ,18.5-24.99,2005
+1472,Malawi, females ,obese ,>=30.0,2
+1473,Malawi, females ,obese ,>=30.0,2004
+1474,Malawi, females ,obese ,>=30.0,2005
+1475,Malawi, females ,overweight ,>=25.0,2
+1476,Malawi, females ,overweight ,>=25.0,2004
+1477,Malawi, females ,overweight ,>=25.0,2005
+1478,Malawi, females ,pre-obese ,25.0-29.99,2004
+1479,Malawi, females ,pre-obese ,25.0-29.99,2005
+1480,Malawi, females ,underweight ,<18.5,2
+1481,Malawi, females ,underweight ,<18.5,2004
+1482,Malawi, females ,underweight ,<18.5,2005
+1483,Malaysia, adults ,normal ,18.5-24.99,2002
+1484,Malaysia, adults ,normal ,18.5-24.99,2003
+1485,Malaysia, adults ,obese ,>=30.0,2002
+1486,Malaysia, adults ,obese ,>=30.0,2003
+1487,Malaysia, adults ,obese ,>=30.0,2005
+1488,Malaysia, adults ,obese ,>=30.0,2006
+1489,Malaysia, adults ,overweight ,>=25.0,2002
+1490,Malaysia, adults ,overweight ,>=25.0,2003
+1491,Malaysia, adults ,overweight ,>=25.0,2005
+1492,Malaysia, adults ,overweight ,>=25.0,2006
+1493,Malaysia, adults ,pre-obese ,25.0-29.99,2002
+1494,Malaysia, adults ,pre-obese ,25.0-29.99,2003
+1495,Malaysia, adults ,pre-obese ,25.0-29.99,2005
+1496,Malaysia, adults ,pre-obese ,25.0-29.99,2006
+1497,Malaysia, adults ,underweight ,<18.5,2002
+1498,Malaysia, adults ,underweight ,<18.5,2003
+1499,Malaysia, females ,moderate and severe thinness ,<=17,2002
+1500,Malaysia, females ,moderate and severe thinness ,<=17,2003
+1501,Malaysia, females ,normal ,18.5-24.99,2002
+1502,Malaysia, females ,normal ,18.5-24.99,2003
+1503,Malaysia, females ,obese ,>=30.0,2002
+1504,Malaysia, females ,obese ,>=30.0,2003
+1505,Malaysia, females ,obese ,>=30.0,2005
+1506,Malaysia, females ,obese ,>=30.0,2006
+1507,Malaysia, females ,overweight ,>=25.0,2002
+1508,Malaysia, females ,overweight ,>=25.0,2003
+1509,Malaysia, females ,overweight ,>=25.0,2005
+1510,Malaysia, females ,overweight ,>=25.0,2006
+1511,Malaysia, females ,pre-obese ,25.0-29.99,2002
+1512,Malaysia, females ,pre-obese ,25.0-29.99,2003
+1513,Malaysia, females ,pre-obese ,25.0-29.99,2005
+1514,Malaysia, females ,pre-obese ,25.0-29.99,2006
+1515,Malaysia, females ,underweight ,<18.5,2002
+1516,Malaysia, females ,underweight ,<18.5,2003
+1517,Malaysia, males ,moderate and severe thinness ,<=17,2002
+1518,Malaysia, males ,moderate and severe thinness ,<=17,2003
+1519,Malaysia, males ,normal ,18.5-24.99,2002
+1520,Malaysia, males ,normal ,18.5-24.99,2003
+1521,Malaysia, males ,obese ,>=30.0,2002
+1522,Malaysia, males ,obese ,>=30.0,2003
+1523,Malaysia, males ,obese ,>=30.0,2005
+1524,Malaysia, males ,obese ,>=30.0,2006
+1525,Malaysia, males ,overweight ,>=25.0,2002
+1526,Malaysia, males ,overweight ,>=25.0,2003
+1527,Malaysia, males ,overweight ,>=25.0,2005
+1528,Malaysia, males ,overweight ,>=25.0,2006
+1529,Malaysia, males ,pre-obese ,25.0-29.99,2002
+1530,Malaysia, males ,pre-obese ,25.0-29.99,2003
+1531,Malaysia, males ,pre-obese ,25.0-29.99,2005
+1532,Malaysia, males ,pre-obese ,25.0-29.99,2006
+1533,Malaysia, males ,underweight ,<18.5,2002
+1534,Malaysia, males ,underweight ,<18.5,2003
+1535,Mali, females ,moderate and severe thinness ,<=17,2006
+1536,Mali, females ,normal ,18.5-24.99,2001
+1537,Mali, females ,normal ,18.5-24.99,2006
+1538,Mali, females ,obese ,>=30.0,2001
+1539,Mali, females ,obese ,>=30.0,2006
+1540,Mali, females ,overweight ,>=25.0,2001
+1541,Mali, females ,overweight ,>=25.0,2006
+1542,Mali, females ,pre-obese ,25.0-29.99,2001
+1543,Mali, females ,pre-obese ,25.0-29.99,2006
+1544,Mali, females ,underweight ,<18.5,2001
+1545,Mali, females ,underweight ,<18.5,2006
+1546,Malta, adults ,normal ,18.5-24.99,2002
+1547,Malta, adults ,normal ,18.5-24.99,2003
+1548,Malta, adults ,normal ,18.5-24.99,2006
+1549,Malta, adults ,normal ,18.5-24.99,2007
+1550,Malta, adults ,obese ,>=30.0,2002
+1551,Malta, adults ,obese ,>=30.0,2003
+1552,Malta, adults ,obese ,>=30.0,2006
+1553,Malta, adults ,obese ,>=30.0,2007
+1554,Malta, adults ,overweight ,>=25.0,2002
+1555,Malta, adults ,overweight ,>=25.0,2003
+1556,Malta, adults ,overweight ,>=25.0,2006
+1557,Malta, adults ,overweight ,>=25.0,2007
+1558,Malta, adults ,pre-obese ,25.0-29.99,2002
+1559,Malta, adults ,pre-obese ,25.0-29.99,2003
+1560,Malta, adults ,pre-obese ,25.0-29.99,2006
+1561,Malta, adults ,pre-obese ,25.0-29.99,2007
+1562,Malta, adults ,underweight ,<18.5,2002
+1563,Malta, adults ,underweight ,<18.5,2003
+1564,Malta, adults ,underweight ,<18.5,2006
+1565,Malta, adults ,underweight ,<18.5,2007
+1566,Malta, females ,normal ,18.5-24.99,2002
+1567,Malta, females ,normal ,18.5-24.99,2003
+1568,Malta, females ,normal ,18.5-24.99,2006
+1569,Malta, females ,normal ,18.5-24.99,2007
+1570,Malta, females ,obese ,>=30.0,2002
+1571,Malta, females ,obese ,>=30.0,2003
+1572,Malta, females ,obese ,>=30.0,2006
+1573,Malta, females ,obese ,>=30.0,2007
+1574,Malta, females ,overweight ,>=25.0,2002
+1575,Malta, females ,overweight ,>=25.0,2003
+1576,Malta, females ,overweight ,>=25.0,2006
+1577,Malta, females ,overweight ,>=25.0,2007
+1578,Malta, females ,pre-obese ,25.0-29.99,2002
+1579,Malta, females ,pre-obese ,25.0-29.99,2006
+1580,Malta, females ,pre-obese ,25.0-29.99,2007
+1581,Malta, females ,underweight ,<18.5,2002
+1582,Malta, females ,underweight ,<18.5,2003
+1583,Malta, females ,underweight ,<18.5,2006
+1584,Malta, females ,underweight ,<18.5,2007
+1585,Malta, males ,normal ,18.5-24.99,2002
+1586,Malta, males ,normal ,18.5-24.99,2003
+1587,Malta, males ,normal ,18.5-24.99,2006
+1588,Malta, males ,normal ,18.5-24.99,2007
+1589,Malta, males ,obese ,>=30.0,2002
+1590,Malta, males ,obese ,>=30.0,2003
+1591,Malta, males ,obese ,>=30.0,2006
+1592,Malta, males ,obese ,>=30.0,2007
+1593,Malta, males ,overweight ,>=25.0,2002
+1594,Malta, males ,overweight ,>=25.0,2003
+1595,Malta, males ,overweight ,>=25.0,2006
+1596,Malta, males ,overweight ,>=25.0,2007
+1597,Malta, males ,pre-obese ,25.0-29.99,2002
+1598,Malta, males ,pre-obese ,25.0-29.99,2003
+1599,Malta, males ,pre-obese ,25.0-29.99,2006
+1600,Malta, males ,pre-obese ,25.0-29.99,2007
+1601,Malta, males ,underweight ,<18.5,2002
+1602,Malta, males ,underweight ,<18.5,2003
+1603,Malta, males ,underweight ,<18.5,2006
+1604,Malta, males ,underweight ,<18.5,2007
+1605,Martinique, females ,obese ,>=30.0,2001
+1606,Martinique, females ,overweight ,>=25.0,2001
+1607,Martinique, males ,obese ,>=30.0,2001
+1608,Martinique, males ,overweight ,>=25.0,2001
+1609,Mauritania, females ,moderate and severe thinness ,<=17,2
+1610,Mauritania, females ,moderate and severe thinness ,<=17,2001
+1611,Mauritania, females ,normal ,18.5-24.99,2
+1612,Mauritania, females ,normal ,18.5-24.99,2001
+1613,Mauritania, females ,obese ,>=30.0,2
+1614,Mauritania, females ,obese ,>=30.0,2001
+1615,Mauritania, females ,overweight ,>=25.0,2
+1616,Mauritania, females ,overweight ,>=25.0,2001
+1617,Mauritania, females ,pre-obese ,25.0-29.99,2
+1618,Mauritania, females ,pre-obese ,25.0-29.99,2001
+1619,Mauritania, females ,underweight ,<18.5,2
+1620,Mauritania, females ,underweight ,<18.5,2001
+1621,Mauritius, adults ,overweight ,>=25.0,2004
+1622,Mauritius, adults ,pre-obese ,25.0-29.99,2004
+1623,Mauritius, females ,overweight ,>=25.0,2004
+1624,Mauritius, females ,pre-obese ,25.0-29.99,2004
+1625,Mauritius, males ,overweight ,>=25.0,2004
+1626,Mauritius, males ,pre-obese ,25.0-29.99,2004
+1627,Mexico, adults ,obese ,>=30.0,2
+1628,Mexico, females ,normal ,18.5-24.99,1999
+1629,Mexico, females ,normal ,18.5-24.99,2006
+1630,Mexico, females ,obese ,>=30.0,1999
+1631,Mexico, females ,obese ,>=30.0,2
+1632,Mexico, females ,obese ,>=30.0,2006
+1633,Mexico, females ,overweight ,>=25.0,1999
+1634,Mexico, females ,overweight ,>=25.0,2006
+1635,Mexico, females ,pre-obese ,25.0-29.99,1999
+1636,Mexico, females ,pre-obese ,25.0-29.99,2006
+1637,Mexico, females ,underweight ,<18.5,1999
+1638,Mexico, females ,underweight ,<18.5,2006
+1639,Mexico, males ,normal ,18.5-24.99,2006
+1640,Mexico, males ,obese ,>=30.0,2
+1641,Mexico, males ,obese ,>=30.0,2006
+1642,Mexico, males ,overweight ,>=25.0,2006
+1643,Mexico, males ,pre-obese ,25.0-29.99,2006
+1644,Mexico, males ,underweight ,<18.5,2006
+1645,Moldova,,,,
+1646,Moldova,,,,
+1647,Moldova,,,,
+1648,Moldova,,,,
+1649,Moldova,,,,
+1650,Moldova,,,,
+1651,Mongolia, adults ,normal ,18.5-24.99,2004
+1652,Mongolia, adults ,obese ,>=30.0,2004
+1653,Mongolia, adults ,obese ,>=30.0,2005
+1654,Mongolia, adults ,overweight ,>=25.0,1999
+1655,Mongolia, adults ,overweight ,>=25.0,2004
+1656,Mongolia, adults ,overweight ,>=25.0,2005
+1657,Mongolia, adults ,pre-obese ,25.0-29.99,2004
+1658,Mongolia, adults ,pre-obese ,25.0-29.99,2005
+1659,Mongolia, adults ,underweight ,<18.5,2004
+1660,Mongolia, adults ,underweight ,<18.5,2005
+1661,Mongolia, females ,moderate and severe thinness ,<=17,2004
+1662,Mongolia, females ,normal ,18.5-24.99,2004
+1663,Mongolia, females ,obese ,>=30.0,2004
+1664,Mongolia, females ,obese ,>=30.0,2005
+1665,Mongolia, females ,overweight ,>=25.0,1999
+1666,Mongolia, females ,overweight ,>=25.0,2004
+1667,Mongolia, females ,overweight ,>=25.0,2005
+1668,Mongolia, females ,pre-obese ,25.0-29.99,2004
+1669,Mongolia, females ,pre-obese ,25.0-29.99,2005
+1670,Mongolia, females ,underweight ,<18.5,2004
+1671,Mongolia, females ,underweight ,<18.5,2005
+1672,Mongolia, males ,moderate and severe thinness ,<=17,2004
+1673,Mongolia, males ,normal ,18.5-24.99,2004
+1674,Mongolia, males ,obese ,>=30.0,2004
+1675,Mongolia, males ,obese ,>=30.0,2005
+1676,Mongolia, males ,overweight ,>=25.0,1999
+1677,Mongolia, males ,overweight ,>=25.0,2004
+1678,Mongolia, males ,overweight ,>=25.0,2005
+1679,Mongolia, males ,pre-obese ,25.0-29.99,2004
+1680,Mongolia, males ,pre-obese ,25.0-29.99,2005
+1681,Mongolia, males ,underweight ,<18.5,2004
+1682,Mongolia, males ,underweight ,<18.5,2005
+1683,Morocco, adults ,normal ,18.5-24.99,1999
+1684,Morocco, adults ,obese ,>=30.0,1999
+1685,Morocco, adults ,obese ,>=30.0,2
+1686,Morocco, adults ,overweight ,>=25.0,1999
+1687,Morocco, adults ,underweight ,<18.5,1999
+1688,Morocco, females ,moderate and severe thinness ,<=17,2003
+1689,Morocco, females ,moderate and severe thinness ,<=17,2004
+1690,Morocco, females ,normal ,18.5-24.99,1999
+1691,Morocco, females ,normal ,18.5-24.99,2003
+1692,Morocco, females ,normal ,18.5-24.99,2004
+1693,Morocco, females ,obese ,>=30.0,1999
+1694,Morocco, females ,obese ,>=30.0,2
+1695,Morocco, females ,obese ,>=30.0,2003
+1696,Morocco, females ,obese ,>=30.0,2004
+1697,Morocco, females ,overweight ,>=25.0,1999
+1698,Morocco, females ,overweight ,>=25.0,2003
+1699,Morocco, females ,overweight ,>=25.0,2004
+1700,Morocco, females ,pre-obese ,25.0-29.99,2003
+1701,Morocco, females ,pre-obese ,25.0-29.99,2004
+1702,Morocco, females ,underweight ,<18.5,1999
+1703,Morocco, females ,underweight ,<18.5,2003
+1704,Morocco, females ,underweight ,<18.5,2004
+1705,Morocco, males ,normal ,18.5-24.99,1999
+1706,Morocco, males ,obese ,>=30.0,1999
+1707,Morocco, males ,obese ,>=30.0,2
+1708,Morocco, males ,overweight ,>=25.0,1999
+1709,Morocco, males ,underweight ,<18.5,1999
+1710,Mozambique, females ,moderate and severe thinness ,<=17,2003
+1711,Mozambique, females ,normal ,18.5-24.99,2003
+1712,Mozambique, females ,obese ,>=30.0,2003
+1713,Mozambique, females ,overweight ,>=25.0,2003
+1714,Mozambique, females ,pre-obese ,25.0-29.99,2003
+1715,Mozambique, females ,underweight ,<18.5,2003
+1716,Namibia, females ,moderate and severe thinness ,<=17,2006
+1717,Namibia, females ,moderate and severe thinness ,<=17,2007
+1718,Namibia, females ,normal ,18.5-24.99,2006
+1719,Namibia, females ,normal ,18.5-24.99,2007
+1720,Namibia, females ,obese ,>=30.0,2006
+1721,Namibia, females ,obese ,>=30.0,2007
+1722,Namibia, females ,overweight ,>=25.0,2006
+1723,Namibia, females ,overweight ,>=25.0,2007
+1724,Namibia, females ,pre-obese ,25.0-29.99,2006
+1725,Namibia, females ,pre-obese ,25.0-29.99,2007
+1726,Namibia, females ,underweight ,<18.5,2006
+1727,Namibia, females ,underweight ,<18.5,2007
+1728,Nepal, females ,moderate and severe thinness ,<=17,2006
+1729,Nepal, females ,normal ,18.5-24.99,2001
+1730,Nepal, females ,normal ,18.5-24.99,2006
+1731,Nepal, females ,obese ,>=30.0,2001
+1732,Nepal, females ,obese ,>=30.0,2006
+1733,Nepal, females ,overweight ,>=25.0,2001
+1734,Nepal, females ,overweight ,>=25.0,2006
+1735,Nepal, females ,pre-obese ,25.0-29.99,2001
+1736,Nepal, females ,pre-obese ,25.0-29.99,2006
+1737,Nepal, females ,underweight ,<18.5,2001
+1738,Nepal, females ,underweight ,<18.5,2006
+1739,Netherlands, females ,obese ,>=30.0,1999
+1740,Netherlands, females ,obese ,>=30.0,2
+1741,Netherlands, females ,obese ,>=30.0,2001
+1742,Netherlands, males ,obese ,>=30.0,1999
+1743,Netherlands, males ,obese ,>=30.0,2
+1744,Netherlands, males ,obese ,>=30.0,2001
+1745,New Zealand, adults ,normal ,18.5-24.99,2006
+1746,New Zealand, adults ,normal ,18.5-24.99,2007
+1747,New Zealand, adults ,obese ,>=30.0,2002
+1748,New Zealand, adults ,obese ,>=30.0,2003
+1749,New Zealand, adults ,obese ,>=30.0,2004
+1750,New Zealand, adults ,obese ,>=30.0,2006
+1751,New Zealand, adults ,obese ,>=30.0,2007
+1752,New Zealand, adults ,overweight ,>=25.0,2002
+1753,New Zealand, adults ,overweight ,>=25.0,2003
+1754,New Zealand, adults ,overweight ,>=25.0,2004
+1755,New Zealand, adults ,overweight ,>=25.0,2006
+1756,New Zealand, adults ,overweight ,>=25.0,2007
+1757,New Zealand, adults ,pre-obese ,25.0-29.99,2006
+1758,New Zealand, adults ,pre-obese ,25.0-29.99,2007
+1759,New Zealand, adults ,underweight ,<18.5,2006
+1760,New Zealand, adults ,underweight ,<18.5,2007
+1761,New Zealand, females ,normal ,18.5-24.99,2006
+1762,New Zealand, females ,normal ,18.5-24.99,2007
+1763,New Zealand, females ,obese ,>=30.0,2002
+1764,New Zealand, females ,obese ,>=30.0,2003
+1765,New Zealand, females ,obese ,>=30.0,2004
+1766,New Zealand, females ,obese ,>=30.0,2006
+1767,New Zealand, females ,obese ,>=30.0,2007
+1768,New Zealand, females ,overweight ,>=25.0,2002
+1769,New Zealand, females ,overweight ,>=25.0,2003
+1770,New Zealand, females ,overweight ,>=25.0,2004
+1771,New Zealand, females ,overweight ,>=25.0,2006
+1772,New Zealand, females ,overweight ,>=25.0,2007
+1773,New Zealand, females ,pre-obese ,25.0-29.99,2006
+1774,New Zealand, females ,pre-obese ,25.0-29.99,2007
+1775,New Zealand, females ,underweight ,<18.5,2006
+1776,New Zealand, females ,underweight ,<18.5,2007
+1777,New Zealand, males ,normal ,18.5-24.99,2006
+1778,New Zealand, males ,normal ,18.5-24.99,2007
+1779,New Zealand, males ,obese ,>=30.0,2002
+1780,New Zealand, males ,obese ,>=30.0,2003
+1781,New Zealand, males ,obese ,>=30.0,2004
+1782,New Zealand, males ,obese ,>=30.0,2006
+1783,New Zealand, males ,obese ,>=30.0,2007
+1784,New Zealand, males ,overweight ,>=25.0,2002
+1785,New Zealand, males ,overweight ,>=25.0,2003
+1786,New Zealand, males ,overweight ,>=25.0,2004
+1787,New Zealand, males ,overweight ,>=25.0,2006
+1788,New Zealand, males ,overweight ,>=25.0,2007
+1789,New Zealand, males ,pre-obese ,25.0-29.99,2006
+1790,New Zealand, males ,pre-obese ,25.0-29.99,2007
+1791,New Zealand, males ,underweight ,<18.5,2006
+1792,New Zealand, males ,underweight ,<18.5,2007
+1793,Nicaragua, females ,normal ,18.5-24.99,2001
+1794,Nicaragua, females ,normal ,18.5-24.99,2003
+1795,Nicaragua, females ,normal ,18.5-24.99,2004
+1796,Nicaragua, females ,normal ,18.5-24.99,2005
+1797,Nicaragua, females ,obese ,>=30.0,2001
+1798,Nicaragua, females ,obese ,>=30.0,2003
+1799,Nicaragua, females ,obese ,>=30.0,2004
+1800,Nicaragua, females ,obese ,>=30.0,2005
+1801,Nicaragua, females ,overweight ,>=25.0,2001
+1802,Nicaragua, females ,overweight ,>=25.0,2003
+1803,Nicaragua, females ,overweight ,>=25.0,2004
+1804,Nicaragua, females ,overweight ,>=25.0,2005
+1805,Nicaragua, females ,pre-obese ,25.0-29.99,2001
+1806,Nicaragua, females ,pre-obese ,25.0-29.99,2003
+1807,Nicaragua, females ,pre-obese ,25.0-29.99,2004
+1808,Nicaragua, females ,pre-obese ,25.0-29.99,2005
+1809,Nicaragua, females ,underweight ,<18.5,2001
+1810,Nicaragua, females ,underweight ,<18.5,2003
+1811,Nicaragua, females ,underweight ,<18.5,2004
+1812,Nicaragua, females ,underweight ,<18.5,2005
+1813,Niger, females ,moderate and severe thinness ,<=17,2006
+1814,Niger, females ,normal ,18.5-24.99,2006
+1815,Niger, females ,obese ,>=30.0,2006
+1816,Niger, females ,overweight ,>=25.0,2006
+1817,Niger, females ,pre-obese ,25.0-29.99,2006
+1818,Niger, females ,underweight ,<18.5,2006
+1819,Nigeria, females ,moderate and severe thinness ,<=17,2003
+1820,Nigeria, females ,normal ,18.5-24.99,2003
+1821,Nigeria, females ,obese ,>=30.0,1999
+1822,Nigeria, females ,obese ,>=30.0,2003
+1823,Nigeria, females ,overweight ,>=25.0,1999
+1824,Nigeria, females ,overweight ,>=25.0,2003
+1825,Nigeria, females ,pre-obese ,25.0-29.99,2003
+1826,Nigeria, females ,underweight ,<18.5,2003
+1827,Norway, adults ,moderate and severe thinness ,<=17,2005
+1828,Norway, adults ,moderate and severe thinness ,<=17,2008
+1829,Norway, adults ,moderate and severe thinness ,<=17,2009
+1830,Norway, adults ,normal ,18.5-24.99,2002
+1831,Norway, adults ,normal ,18.5-24.99,2005
+1832,Norway, adults ,normal ,18.5-24.99,2008
+1833,Norway, adults ,normal ,18.5-24.99,2009
+1834,Norway, adults ,obese ,>=30.0,2002
+1835,Norway, adults ,obese ,>=30.0,2005
+1836,Norway, adults ,obese ,>=30.0,2008
+1837,Norway, adults ,obese ,>=30.0,2009
+1838,Norway, adults ,overweight ,>=25.0,2002
+1839,Norway, adults ,overweight ,>=25.0,2005
+1840,Norway, adults ,overweight ,>=25.0,2008
+1841,Norway, adults ,overweight ,>=25.0,2009
+1842,Norway, adults ,pre-obese ,25.0-29.99,2002
+1843,Norway, adults ,pre-obese ,25.0-29.99,2005
+1844,Norway, adults ,pre-obese ,25.0-29.99,2008
+1845,Norway, adults ,pre-obese ,25.0-29.99,2009
+1846,Norway, adults ,underweight ,<18.5,2002
+1847,Norway, adults ,underweight ,<18.5,2005
+1848,Norway, adults ,underweight ,<18.5,2008
+1849,Norway, adults ,underweight ,<18.5,2009
+1850,Norway, females ,moderate and severe thinness ,<=17,2005
+1851,Norway, females ,moderate and severe thinness ,<=17,2008
+1852,Norway, females ,moderate and severe thinness ,<=17,2009
+1853,Norway, females ,normal ,18.5-24.99,2002
+1854,Norway, females ,normal ,18.5-24.99,2005
+1855,Norway, females ,normal ,18.5-24.99,2008
+1856,Norway, females ,normal ,18.5-24.99,2009
+1857,Norway, females ,obese ,>=30.0,1999
+1858,Norway, females ,obese ,>=30.0,2
+1859,Norway, females ,obese ,>=30.0,2001
+1860,Norway, females ,obese ,>=30.0,2002
+1861,Norway, females ,obese ,>=30.0,2005
+1862,Norway, females ,obese ,>=30.0,2008
+1863,Norway, females ,obese ,>=30.0,2009
+1864,Norway, females ,overweight ,>=25.0,2002
+1865,Norway, females ,overweight ,>=25.0,2005
+1866,Norway, females ,overweight ,>=25.0,2008
+1867,Norway, females ,overweight ,>=25.0,2009
+1868,Norway, females ,pre-obese ,25.0-29.99,2002
+1869,Norway, females ,pre-obese ,25.0-29.99,2005
+1870,Norway, females ,pre-obese ,25.0-29.99,2008
+1871,Norway, females ,pre-obese ,25.0-29.99,2009
+1872,Norway, females ,underweight ,<18.5,2002
+1873,Norway, females ,underweight ,<18.5,2005
+1874,Norway, females ,underweight ,<18.5,2008
+1875,Norway, females ,underweight ,<18.5,2009
+1876,Norway, males ,moderate and severe thinness ,<=17,2005
+1877,Norway, males ,moderate and severe thinness ,<=17,2008
+1878,Norway, males ,moderate and severe thinness ,<=17,2009
+1879,Norway, males ,normal ,18.5-24.99,2002
+1880,Norway, males ,normal ,18.5-24.99,2005
+1881,Norway, males ,normal ,18.5-24.99,2008
+1882,Norway, males ,normal ,18.5-24.99,2009
+1883,Norway, males ,obese ,>=30.0,1999
+1884,Norway, males ,obese ,>=30.0,2
+1885,Norway, males ,obese ,>=30.0,2001
+1886,Norway, males ,obese ,>=30.0,2002
+1887,Norway, males ,obese ,>=30.0,2005
+1888,Norway, males ,obese ,>=30.0,2008
+1889,Norway, males ,obese ,>=30.0,2009
+1890,Norway, males ,overweight ,>=25.0,2002
+1891,Norway, males ,overweight ,>=25.0,2005
+1892,Norway, males ,overweight ,>=25.0,2008
+1893,Norway, males ,overweight ,>=25.0,2009
+1894,Norway, males ,pre-obese ,25.0-29.99,2002
+1895,Norway, males ,pre-obese ,25.0-29.99,2005
+1896,Norway, males ,pre-obese ,25.0-29.99,2008
+1897,Norway, males ,pre-obese ,25.0-29.99,2009
+1898,Norway, males ,underweight ,<18.5,2002
+1899,Norway, males ,underweight ,<18.5,2005
+1900,Norway, males ,underweight ,<18.5,2008
+1901,Norway, males ,underweight ,<18.5,2009
+1902,Oman, females ,obese ,>=30.0,2
+1903,Oman, females ,overweight ,>=25.0,2
+1904,Oman, females ,pre-obese ,25.0-29.99,2
+1905,Oman, males ,obese ,>=30.0,2
+1906,Oman, males ,overweight ,>=25.0,2
+1907,Oman, males ,pre-obese ,25.0-29.99,2
+1908,Panama, adults ,normal ,18.5-24.99,1999
+1909,Panama, adults ,obese ,>=30.0,1999
+1910,Panama, adults ,overweight ,>=25.0,1999
+1911,Panama, adults ,pre-obese ,25.0-29.99,1999
+1912,Panama, adults ,underweight ,<18.5,1999
+1913,Panama, females ,normal ,18.5-24.99,1999
+1914,Panama, females ,obese ,>=30.0,1999
+1915,Panama, females ,overweight ,>=25.0,1999
+1916,Panama, females ,pre-obese ,25.0-29.99,1999
+1917,Panama, females ,underweight ,<18.5,1999
+1918,Panama, males ,normal ,18.5-24.99,1999
+1919,Panama, males ,obese ,>=30.0,1999
+1920,Panama, males ,overweight ,>=25.0,1999
+1921,Panama, males ,pre-obese ,25.0-29.99,1999
+1922,Panama, males ,underweight ,<18.5,1999
+1923,Peru, adults ,obese ,>=30.0,2
+1924,Peru, adults ,overweight ,>=25.0,2
+1925,Peru, adults ,pre-obese ,25.0-29.99,2
+1926,Peru, females ,moderate and severe thinness ,<=17,2
+1927,Peru, females ,moderate and severe thinness ,<=17,2004
+1928,Peru, females ,moderate and severe thinness ,<=17,2005
+1929,Peru, females ,moderate and severe thinness ,<=17,2006
+1930,Peru, females ,normal ,18.5-24.99,2
+1931,Peru, females ,normal ,18.5-24.99,2004
+1932,Peru, females ,normal ,18.5-24.99,2005
+1933,Peru, females ,normal ,18.5-24.99,2006
+1934,Peru, females ,obese ,>=30.0,2
+1935,Peru, females ,obese ,>=30.0,2004
+1936,Peru, females ,obese ,>=30.0,2005
+1937,Peru, females ,obese ,>=30.0,2006
+1938,Peru, females ,overweight ,>=25.0,2
+1939,Peru, females ,overweight ,>=25.0,2004
+1940,Peru, females ,overweight ,>=25.0,2005
+1941,Peru, females ,overweight ,>=25.0,2006
+1942,Peru, females ,pre-obese ,25.0-29.99,2
+1943,Peru, females ,pre-obese ,25.0-29.99,2004
+1944,Peru, females ,pre-obese ,25.0-29.99,2005
+1945,Peru, females ,pre-obese ,25.0-29.99,2006
+1946,Peru, females ,underweight ,<18.5,2
+1947,Peru, females ,underweight ,<18.5,2004
+1948,Peru, females ,underweight ,<18.5,2005
+1949,Peru, females ,underweight ,<18.5,2006
+1950,Peru, males ,obese ,>=30.0,2
+1951,Peru, males ,overweight ,>=25.0,2
+1952,Peru, males ,pre-obese ,25.0-29.99,2
+1953,Philippines, adults ,normal ,18.5-24.99,2003
+1954,Philippines, adults ,obese ,>=30.0,2003
+1955,Philippines, adults ,overweight ,>=25.0,2003
+1956,Philippines, adults ,pre-obese ,25.0-29.99,2003
+1957,Philippines, adults ,underweight ,<18.5,2003
+1958,Philippines, females ,normal ,18.5-24.99,2003
+1959,Philippines, females ,obese ,>=30.0,2003
+1960,Philippines, females ,overweight ,>=25.0,2003
+1961,Philippines, females ,pre-obese ,25.0-29.99,2003
+1962,Philippines, females ,underweight ,<18.5,2003
+1963,Philippines, males ,normal ,18.5-24.99,2003
+1964,Philippines, males ,obese ,>=30.0,2003
+1965,Philippines, males ,overweight ,>=25.0,2003
+1966,Philippines, males ,pre-obese ,25.0-29.99,2003
+1967,Philippines, males ,underweight ,<18.5,2003
+1968,Poland, adults ,normal ,18.5-24.99,2
+1969,Poland, adults ,normal ,18.5-24.99,2001
+1970,Poland, adults ,obese ,>=30.0,2
+1971,Poland, adults ,obese ,>=30.0,2001
+1972,Poland, adults ,overweight ,>=25.0,2
+1973,Poland, adults ,overweight ,>=25.0,2001
+1974,Poland, adults ,pre-obese ,25.0-29.99,2
+1975,Poland, adults ,pre-obese ,25.0-29.99,2001
+1976,Poland, adults ,underweight ,<18.5,2
+1977,Poland, adults ,underweight ,<18.5,2001
+1978,Poland, females ,normal ,18.5-24.99,2
+1979,Poland, females ,normal ,18.5-24.99,2001
+1980,Poland, females ,obese ,>=30.0,2
+1981,Poland, females ,obese ,>=30.0,2001
+1982,Poland, females ,overweight ,>=25.0,2
+1983,Poland, females ,overweight ,>=25.0,2001
+1984,Poland, females ,pre-obese ,25.0-29.99,2
+1985,Poland, females ,pre-obese ,25.0-29.99,2001
+1986,Poland, females ,underweight ,<18.5,2
+1987,Poland, females ,underweight ,<18.5,2001
+1988,Poland, males ,normal ,18.5-24.99,2
+1989,Poland, males ,normal ,18.5-24.99,2001
+1990,Poland, males ,obese ,>=30.0,2
+1991,Poland, males ,obese ,>=30.0,2001
+1992,Poland, males ,overweight ,>=25.0,2
+1993,Poland, males ,overweight ,>=25.0,2001
+1994,Poland, males ,pre-obese ,25.0-29.99,2
+1995,Poland, males ,pre-obese ,25.0-29.99,2001
+1996,Poland, males ,underweight ,<18.5,2
+1997,Poland, males ,underweight ,<18.5,2001
+1998,Portugal, adults ,normal ,18.5-24.99,1999
+1999,Portugal, adults ,normal ,18.5-24.99,2003
+2000,Portugal, adults ,normal ,18.5-24.99,2004
+2001,Portugal, adults ,normal ,18.5-24.99,2005
+2002,Portugal, adults ,obese ,>=30.0,1999
+2003,Portugal, adults ,obese ,>=30.0,2003
+2004,Portugal, adults ,obese ,>=30.0,2004
+2005,Portugal, adults ,obese ,>=30.0,2005
+2006,Portugal, adults ,overweight ,>=25.0,1999
+2007,Portugal, adults ,overweight ,>=25.0,2003
+2008,Portugal, adults ,overweight ,>=25.0,2004
+2009,Portugal, adults ,overweight ,>=25.0,2005
+2010,Portugal, adults ,pre-obese ,25.0-29.99,1999
+2011,Portugal, adults ,pre-obese ,25.0-29.99,2003
+2012,Portugal, adults ,pre-obese ,25.0-29.99,2004
+2013,Portugal, adults ,pre-obese ,25.0-29.99,2005
+2014,Portugal, adults ,underweight ,<18.5,1999
+2015,Portugal, adults ,underweight ,<18.5,2003
+2016,Portugal, adults ,underweight ,<18.5,2004
+2017,Portugal, adults ,underweight ,<18.5,2005
+2018,Portugal, females ,normal ,18.5-24.99,1999
+2019,Portugal, females ,normal ,18.5-24.99,2003
+2020,Portugal, females ,normal ,18.5-24.99,2004
+2021,Portugal, females ,normal ,18.5-24.99,2005
+2022,Portugal, females ,obese ,>=30.0,1999
+2023,Portugal, females ,obese ,>=30.0,2003
+2024,Portugal, females ,obese ,>=30.0,2004
+2025,Portugal, females ,obese ,>=30.0,2005
+2026,Portugal, females ,overweight ,>=25.0,1999
+2027,Portugal, females ,overweight ,>=25.0,2003
+2028,Portugal, females ,overweight ,>=25.0,2004
+2029,Portugal, females ,overweight ,>=25.0,2005
+2030,Portugal, females ,pre-obese ,25.0-29.99,1999
+2031,Portugal, females ,pre-obese ,25.0-29.99,2003
+2032,Portugal, females ,pre-obese ,25.0-29.99,2004
+2033,Portugal, females ,pre-obese ,25.0-29.99,2005
+2034,Portugal, females ,underweight ,<18.5,1999
+2035,Portugal, females ,underweight ,<18.5,2003
+2036,Portugal, females ,underweight ,<18.5,2004
+2037,Portugal, females ,underweight ,<18.5,2005
+2038,Portugal, males ,normal ,18.5-24.99,1999
+2039,Portugal, males ,normal ,18.5-24.99,2003
+2040,Portugal, males ,normal ,18.5-24.99,2004
+2041,Portugal, males ,normal ,18.5-24.99,2005
+2042,Portugal, males ,obese ,>=30.0,1999
+2043,Portugal, males ,obese ,>=30.0,2003
+2044,Portugal, males ,obese ,>=30.0,2004
+2045,Portugal, males ,obese ,>=30.0,2005
+2046,Portugal, males ,overweight ,>=25.0,1999
+2047,Portugal, males ,overweight ,>=25.0,2003
+2048,Portugal, males ,overweight ,>=25.0,2004
+2049,Portugal, males ,overweight ,>=25.0,2005
+2050,Portugal, males ,pre-obese ,25.0-29.99,1999
+2051,Portugal, males ,pre-obese ,25.0-29.99,2003
+2052,Portugal, males ,pre-obese ,25.0-29.99,2004
+2053,Portugal, males ,pre-obese ,25.0-29.99,2005
+2054,Portugal, males ,underweight ,<18.5,1999
+2055,Portugal, males ,underweight ,<18.5,2003
+2056,Portugal, males ,underweight ,<18.5,2004
+2057,Portugal, males ,underweight ,<18.5,2005
+2058,Republic of Korea, adults ,normal ,18.5-24.99,2001
+2059,Republic of Korea, adults ,normal ,18.5-24.99,2007
+2060,Republic of Korea, adults ,obese ,>=30.0,2001
+2061,Republic of Korea, adults ,overweight ,>=25.0,2001
+2062,Republic of Korea, adults ,overweight ,>=25.0,2007
+2063,Republic of Korea, adults ,pre-obese ,25.0-29.99,2001
+2064,Republic of Korea, adults ,underweight ,<18.5,2001
+2065,Republic of Korea, adults ,underweight ,<18.5,2007
+2066,Republic of Korea, females ,normal ,18.5-24.99,2001
+2067,Republic of Korea, females ,normal ,18.5-24.99,2007
+2068,Republic of Korea, females ,obese ,>=30.0,2001
+2069,Republic of Korea, females ,overweight ,>=25.0,2001
+2070,Republic of Korea, females ,overweight ,>=25.0,2007
+2071,Republic of Korea, females ,pre-obese ,25.0-29.99,2001
+2072,Republic of Korea, females ,underweight ,<18.5,2001
+2073,Republic of Korea, females ,underweight ,<18.5,2007
+2074,Republic of Korea, males ,normal ,18.5-24.99,2001
+2075,Republic of Korea, males ,normal ,18.5-24.99,2007
+2076,Republic of Korea, males ,obese ,>=30.0,2001
+2077,Republic of Korea, males ,overweight ,>=25.0,2001
+2078,Republic of Korea, males ,overweight ,>=25.0,2007
+2079,Republic of Korea, males ,pre-obese ,25.0-29.99,2001
+2080,Republic of Korea, males ,underweight ,<18.5,2001
+2081,Republic of Korea, males ,underweight ,<18.5,2007
+2082,Romania, adults ,normal ,18.5-24.99,2
+2083,Romania, adults ,obese ,>=30.0,2
+2084,Romania, adults ,overweight ,>=25.0,2
+2085,Romania, adults ,pre-obese ,25.0-29.99,2
+2086,Romania, adults ,underweight ,<18.5,2
+2087,Romania, females ,normal ,18.5-24.99,2
+2088,Romania, females ,obese ,>=30.0,2
+2089,Romania, females ,overweight ,>=25.0,2
+2090,Romania, females ,pre-obese ,25.0-29.99,2
+2091,Romania, females ,underweight ,<18.5,2
+2092,Romania, males ,normal ,18.5-24.99,2
+2093,Romania, males ,obese ,>=30.0,2
+2094,Romania, males ,overweight ,>=25.0,2
+2095,Romania, males ,pre-obese ,25.0-29.99,2
+2096,Romania, males ,underweight ,<18.5,2
+2097,Russian Federation, females ,obese ,>=30.0,2005
+2098,Russian Federation, females ,overweight ,>=25.0,2005
+2099,Russian Federation, females ,pre-obese ,25.0-29.99,2005
+2100,Russian Federation, males ,obese ,>=30.0,2005
+2101,Russian Federation, males ,overweight ,>=25.0,2005
+2102,Russian Federation, males ,pre-obese ,25.0-29.99,2005
+2103,Rwanda, females ,moderate and severe thinness ,<=17,2005
+2104,Rwanda, females ,normal ,18.5-24.99,2
+2105,Rwanda, females ,normal ,18.5-24.99,2005
+2106,Rwanda, females ,obese ,>=30.0,2
+2107,Rwanda, females ,overweight ,>=25.0,2
+2108,Rwanda, females ,overweight ,>=25.0,2005
+2109,Rwanda, females ,underweight ,<18.5,2
+2110,Rwanda, females ,underweight ,<18.5,2005
+2111,Saudi Arabia, adults ,obese ,>=30.0,1999
+2112,Saudi Arabia, adults ,obese ,>=30.0,2
+2113,Saudi Arabia, adults ,overweight ,>=25.0,1999
+2114,Saudi Arabia, adults ,overweight ,>=25.0,2
+2115,Saudi Arabia, adults ,pre-obese ,25.0-29.99,1999
+2116,Saudi Arabia, adults ,pre-obese ,25.0-29.99,2
+2117,Saudi Arabia, females ,normal ,18.5-24.99,2004
+2118,Saudi Arabia, females ,normal ,18.5-24.99,2005
+2119,Saudi Arabia, females ,obese ,>=30.0,1999
+2120,Saudi Arabia, females ,obese ,>=30.0,2
+2121,Saudi Arabia, females ,obese ,>=30.0,2004
+2122,Saudi Arabia, females ,obese ,>=30.0,2005
+2123,Saudi Arabia, females ,overweight ,>=25.0,1999
+2124,Saudi Arabia, females ,overweight ,>=25.0,2
+2125,Saudi Arabia, females ,overweight ,>=25.0,2004
+2126,Saudi Arabia, females ,overweight ,>=25.0,2005
+2127,Saudi Arabia, females ,pre-obese ,25.0-29.99,1999
+2128,Saudi Arabia, females ,pre-obese ,25.0-29.99,2
+2129,Saudi Arabia, females ,pre-obese ,25.0-29.99,2004
+2130,Saudi Arabia, females ,pre-obese ,25.0-29.99,2005
+2131,Saudi Arabia, females ,underweight ,<18.5,2004
+2132,Saudi Arabia, females ,underweight ,<18.5,2005
+2133,Saudi Arabia, males ,normal ,18.5-24.99,2004
+2134,Saudi Arabia, males ,normal ,18.5-24.99,2005
+2135,Saudi Arabia, males ,obese ,>=30.0,1999
+2136,Saudi Arabia, males ,obese ,>=30.0,2
+2137,Saudi Arabia, males ,obese ,>=30.0,2004
+2138,Saudi Arabia, males ,obese ,>=30.0,2005
+2139,Saudi Arabia, males ,overweight ,>=25.0,1999
+2140,Saudi Arabia, males ,overweight ,>=25.0,2
+2141,Saudi Arabia, males ,overweight ,>=25.0,2004
+2142,Saudi Arabia, males ,overweight ,>=25.0,2005
+2143,Saudi Arabia, males ,pre-obese ,25.0-29.99,1999
+2144,Saudi Arabia, males ,pre-obese ,25.0-29.99,2
+2145,Saudi Arabia, males ,pre-obese ,25.0-29.99,2004
+2146,Saudi Arabia, males ,pre-obese ,25.0-29.99,2005
+2147,Saudi Arabia, males ,underweight ,<18.5,2004
+2148,Saudi Arabia, males ,underweight ,<18.5,2005
+2149,Senegal, females ,moderate and severe thinness ,<=17,2005
+2150,Senegal, females ,normal ,18.5-24.99,2005
+2151,Senegal, females ,obese ,>=30.0,2005
+2152,Senegal, females ,overweight ,>=25.0,2005
+2153,Senegal, females ,pre-obese ,25.0-29.99,2005
+2154,Senegal, females ,underweight ,<18.5,2005
+2155,Serbia and Montenegro, adults ,obese ,>=30.0,2
+2156,Serbia and Montenegro, adults ,overweight ,>=25.0,2
+2157,Serbia and Montenegro, adults ,pre-obese ,25.0-29.99,2
+2158,Serbia and Montenegro, females ,obese ,>=30.0,2
+2159,Serbia and Montenegro, females ,overweight ,>=25.0,2
+2160,Serbia and Montenegro, females ,pre-obese ,25.0-29.99,2
+2161,Serbia and Montenegro, males ,obese ,>=30.0,2
+2162,Serbia and Montenegro, males ,pre-obese ,25.0-29.99,2
+2163,Seychelles, adults ,obese ,>=30.0,2004
+2164,Seychelles, adults ,overweight ,>=25.0,2004
+2165,Seychelles, females ,obese ,>=30.0,2004
+2166,Seychelles, females ,overweight ,>=25.0,2004
+2167,Seychelles, males ,obese ,>=30.0,2004
+2168,Seychelles, males ,overweight ,>=25.0,2004
+2169,Singapore, adults ,normal ,18.5-24.99,2004
+2170,Singapore, adults ,obese ,>=30.0,2004
+2171,Singapore, adults ,overweight ,>=25.0,2004
+2172,Singapore, adults ,pre-obese ,25.0-29.99,2004
+2173,Singapore, adults ,underweight ,<18.5,2004
+2174,Singapore, females ,normal ,18.5-24.99,2004
+2175,Singapore, females ,obese ,>=30.0,2004
+2176,Singapore, females ,overweight ,>=25.0,2004
+2177,Singapore, females ,pre-obese ,25.0-29.99,2004
+2178,Singapore, females ,underweight ,<18.5,2004
+2179,Singapore, males ,normal ,18.5-24.99,2004
+2180,Singapore, males ,obese ,>=30.0,2004
+2181,Singapore, males ,overweight ,>=25.0,2004
+2182,Singapore, males ,pre-obese ,25.0-29.99,2004
+2183,Singapore, males ,underweight ,<18.5,2004
+2184,Slovakia, adults ,normal ,18.5-24.99,2002
+2185,Slovakia, adults ,obese ,>=30.0,2002
+2186,Slovakia, adults ,overweight ,>=25.0,2002
+2187,Slovakia, adults ,pre-obese ,25.0-29.99,2002
+2188,Slovakia, adults ,underweight ,<18.5,2002
+2189,Slovakia, females ,normal ,18.5-24.99,2002
+2190,Slovakia, females ,obese ,>=30.0,2002
+2191,Slovakia, females ,overweight ,>=25.0,2002
+2192,Slovakia, females ,pre-obese ,25.0-29.99,2002
+2193,Slovakia, females ,underweight ,<18.5,2002
+2194,Slovakia, males ,normal ,18.5-24.99,2002
+2195,Slovakia, males ,obese ,>=30.0,2002
+2196,Slovakia, males ,overweight ,>=25.0,2002
+2197,Slovakia, males ,pre-obese ,25.0-29.99,2002
+2198,Slovakia, males ,underweight ,<18.5,2002
+2199,Slovenia, adults ,obese ,>=30.0,2001
+2200,Slovenia, females ,obese ,>=30.0,2001
+2201,Slovenia, males ,obese ,>=30.0,2001
+2202,South Africa, females ,normal ,18.5-24.99,2003
+2203,South Africa, females ,normal ,18.5-24.99,2004
+2204,South Africa, females ,obese ,>=30.0,2003
+2205,South Africa, females ,obese ,>=30.0,2004
+2206,South Africa, females ,overweight ,>=25.0,2003
+2207,South Africa, females ,overweight ,>=25.0,2004
+2208,South Africa, females ,pre-obese ,25.0-29.99,2003
+2209,South Africa, females ,pre-obese ,25.0-29.99,2004
+2210,South Africa, females ,underweight ,<18.5,2003
+2211,South Africa, females ,underweight ,<18.5,2004
+2212,South Africa, males ,normal ,18.5-24.99,2003
+2213,South Africa, males ,normal ,18.5-24.99,2004
+2214,South Africa, males ,obese ,>=30.0,2003
+2215,South Africa, males ,obese ,>=30.0,2004
+2216,South Africa, males ,overweight ,>=25.0,2003
+2217,South Africa, males ,overweight ,>=25.0,2004
+2218,South Africa, males ,pre-obese ,25.0-29.99,2003
+2219,South Africa, males ,pre-obese ,25.0-29.99,2004
+2220,South Africa, males ,underweight ,<18.5,2003
+2221,South Africa, males ,underweight ,<18.5,2004
+2222,Spain, adults ,normal ,18.5-24.99,2003
+2223,Spain, adults ,normal ,18.5-24.99,2006
+2224,Spain, adults ,normal ,18.5-24.99,2007
+2225,Spain, adults ,obese ,>=30.0,2001
+2226,Spain, adults ,obese ,>=30.0,2003
+2227,Spain, adults ,obese ,>=30.0,2006
+2228,Spain, adults ,obese ,>=30.0,2007
+2229,Spain, adults ,overweight ,>=25.0,2001
+2230,Spain, adults ,overweight ,>=25.0,2003
+2231,Spain, adults ,overweight ,>=25.0,2006
+2232,Spain, adults ,overweight ,>=25.0,2007
+2233,Spain, adults ,pre-obese ,25.0-29.99,2003
+2234,Spain, adults ,pre-obese ,25.0-29.99,2006
+2235,Spain, adults ,pre-obese ,25.0-29.99,2007
+2236,Spain, adults ,underweight ,<18.5,2003
+2237,Spain, adults ,underweight ,<18.5,2006
+2238,Spain, adults ,underweight ,<18.5,2007
+2239,Spain, females ,normal ,18.5-24.99,2003
+2240,Spain, females ,normal ,18.5-24.99,2006
+2241,Spain, females ,normal ,18.5-24.99,2007
+2242,Spain, females ,obese ,>=30.0,2
+2243,Spain, females ,obese ,>=30.0,2001
+2244,Spain, females ,obese ,>=30.0,2003
+2245,Spain, females ,obese ,>=30.0,2006
+2246,Spain, females ,obese ,>=30.0,2007
+2247,Spain, females ,overweight ,>=25.0,2
+2248,Spain, females ,overweight ,>=25.0,2001
+2249,Spain, females ,overweight ,>=25.0,2003
+2250,Spain, females ,overweight ,>=25.0,2006
+2251,Spain, females ,overweight ,>=25.0,2007
+2252,Spain, females ,pre-obese ,25.0-29.99,2
+2253,Spain, females ,pre-obese ,25.0-29.99,2001
+2254,Spain, females ,pre-obese ,25.0-29.99,2003
+2255,Spain, females ,pre-obese ,25.0-29.99,2006
+2256,Spain, females ,pre-obese ,25.0-29.99,2007
+2257,Spain, females ,underweight ,<18.5,2003
+2258,Spain, females ,underweight ,<18.5,2006
+2259,Spain, females ,underweight ,<18.5,2007
+2260,Spain, males ,normal ,18.5-24.99,2003
+2261,Spain, males ,normal ,18.5-24.99,2006
+2262,Spain, males ,normal ,18.5-24.99,2007
+2263,Spain, males ,obese ,>=30.0,2
+2264,Spain, males ,obese ,>=30.0,2001
+2265,Spain, males ,obese ,>=30.0,2003
+2266,Spain, males ,obese ,>=30.0,2006
+2267,Spain, males ,obese ,>=30.0,2007
+2268,Spain, males ,overweight ,>=25.0,2
+2269,Spain, males ,overweight ,>=25.0,2001
+2270,Spain, males ,overweight ,>=25.0,2003
+2271,Spain, males ,overweight ,>=25.0,2006
+2272,Spain, males ,overweight ,>=25.0,2007
+2273,Spain, males ,pre-obese ,25.0-29.99,2
+2274,Spain, males ,pre-obese ,25.0-29.99,2001
+2275,Spain, males ,pre-obese ,25.0-29.99,2003
+2276,Spain, males ,pre-obese ,25.0-29.99,2006
+2277,Spain, males ,pre-obese ,25.0-29.99,2007
+2278,Spain, males ,underweight ,<18.5,2003
+2279,Spain, males ,underweight ,<18.5,2006
+2280,Spain, males ,underweight ,<18.5,2007
+2281,Swaziland, females ,moderate and severe thinness ,<=17,2006
+2282,Swaziland, females ,moderate and severe thinness ,<=17,2007
+2283,Swaziland, females ,normal ,18.5-24.99,2006
+2284,Swaziland, females ,normal ,18.5-24.99,2007
+2285,Swaziland, females ,obese ,>=30.0,2006
+2286,Swaziland, females ,obese ,>=30.0,2007
+2287,Swaziland, females ,overweight ,>=25.0,2006
+2288,Swaziland, females ,overweight ,>=25.0,2007
+2289,Swaziland, females ,pre-obese ,25.0-29.99,2006
+2290,Swaziland, females ,pre-obese ,25.0-29.99,2007
+2291,Swaziland, females ,underweight ,<18.5,2006
+2292,Swaziland, females ,underweight ,<18.5,2007
+2293,Swaziland, males ,moderate and severe thinness ,<=17,2006
+2294,Swaziland, males ,moderate and severe thinness ,<=17,2007
+2295,Swaziland, males ,normal ,18.5-24.99,2006
+2296,Swaziland, males ,normal ,18.5-24.99,2007
+2297,Swaziland, males ,obese ,>=30.0,2006
+2298,Swaziland, males ,obese ,>=30.0,2007
+2299,Swaziland, males ,overweight ,>=25.0,2006
+2300,Swaziland, males ,overweight ,>=25.0,2007
+2301,Swaziland, males ,pre-obese ,25.0-29.99,2006
+2302,Swaziland, males ,pre-obese ,25.0-29.99,2007
+2303,Swaziland, males ,underweight ,<18.5,2006
+2304,Swaziland, males ,underweight ,<18.5,2007
+2305,Sweden, adults ,normal ,18.5-24.99,2009
+2306,Sweden, adults ,obese ,>=30.0,1999
+2307,Sweden, adults ,obese ,>=30.0,2
+2308,Sweden, adults ,obese ,>=30.0,2001
+2309,Sweden, adults ,obese ,>=30.0,2009
+2310,Sweden, adults ,overweight ,>=25.0,1999
+2311,Sweden, adults ,overweight ,>=25.0,2
+2312,Sweden, adults ,overweight ,>=25.0,2001
+2313,Sweden, adults ,overweight ,>=25.0,2009
+2314,Sweden, adults ,pre-obese ,25.0-29.99,2009
+2315,Sweden, adults ,underweight ,<18.5,2009
+2316,Sweden, females ,normal ,18.5-24.99,2007
+2317,Sweden, females ,normal ,18.5-24.99,2008
+2318,Sweden, females ,normal ,18.5-24.99,2009
+2319,Sweden, females ,obese ,>=30.0,1999
+2320,Sweden, females ,obese ,>=30.0,2
+2321,Sweden, females ,obese ,>=30.0,2001
+2322,Sweden, females ,obese ,>=30.0,2002
+2323,Sweden, females ,obese ,>=30.0,2003
+2324,Sweden, females ,obese ,>=30.0,2006
+2325,Sweden, females ,obese ,>=30.0,2007
+2326,Sweden, females ,obese ,>=30.0,2008
+2327,Sweden, females ,obese ,>=30.0,2009
+2328,Sweden, females ,overweight ,>=25.0,1999
+2329,Sweden, females ,overweight ,>=25.0,2
+2330,Sweden, females ,overweight ,>=25.0,2001
+2331,Sweden, females ,overweight ,>=25.0,2007
+2332,Sweden, females ,overweight ,>=25.0,2008
+2333,Sweden, females ,overweight ,>=25.0,2009
+2334,Sweden, females ,pre-obese ,25.0-29.99,2007
+2335,Sweden, females ,pre-obese ,25.0-29.99,2008
+2336,Sweden, females ,pre-obese ,25.0-29.99,2009
+2337,Sweden, females ,underweight ,<18.5,2007
+2338,Sweden, females ,underweight ,<18.5,2008
+2339,Sweden, females ,underweight ,<18.5,2009
+2340,Sweden, males ,normal ,18.5-24.99,2007
+2341,Sweden, males ,normal ,18.5-24.99,2008
+2342,Sweden, males ,normal ,18.5-24.99,2009
+2343,Sweden, males ,obese ,>=30.0,1999
+2344,Sweden, males ,obese ,>=30.0,2
+2345,Sweden, males ,obese ,>=30.0,2001
+2346,Sweden, males ,obese ,>=30.0,2002
+2347,Sweden, males ,obese ,>=30.0,2003
+2348,Sweden, males ,obese ,>=30.0,2006
+2349,Sweden, males ,obese ,>=30.0,2007
+2350,Sweden, males ,obese ,>=30.0,2008
+2351,Sweden, males ,obese ,>=30.0,2009
+2352,Sweden, males ,overweight ,>=25.0,1999
+2353,Sweden, males ,overweight ,>=25.0,2
+2354,Sweden, males ,overweight ,>=25.0,2001
+2355,Sweden, males ,overweight ,>=25.0,2007
+2356,Sweden, males ,overweight ,>=25.0,2008
+2357,Sweden, males ,overweight ,>=25.0,2009
+2358,Sweden, males ,pre-obese ,25.0-29.99,2007
+2359,Sweden, males ,pre-obese ,25.0-29.99,2008
+2360,Sweden, males ,pre-obese ,25.0-29.99,2009
+2361,Sweden, males ,underweight ,<18.5,2007
+2362,Sweden, males ,underweight ,<18.5,2008
+2363,Sweden, males ,underweight ,<18.5,2009
+2364,Switzerland, adults ,normal ,18.5-24.99,2
+2365,Switzerland, adults ,normal ,18.5-24.99,2002
+2366,Switzerland, adults ,normal ,18.5-24.99,2007
+2367,Switzerland, adults ,obese ,>=30.0,2
+2368,Switzerland, adults ,obese ,>=30.0,2002
+2369,Switzerland, adults ,obese ,>=30.0,2007
+2370,Switzerland, adults ,overweight ,>=25.0,2
+2371,Switzerland, adults ,overweight ,>=25.0,2002
+2372,Switzerland, adults ,overweight ,>=25.0,2007
+2373,Switzerland, adults ,pre-obese ,25.0-29.99,2
+2374,Switzerland, adults ,pre-obese ,25.0-29.99,2002
+2375,Switzerland, adults ,pre-obese ,25.0-29.99,2007
+2376,Switzerland, adults ,underweight ,<18.5,2
+2377,Switzerland, adults ,underweight ,<18.5,2002
+2378,Switzerland, adults ,underweight ,<18.5,2007
+2379,Switzerland, females ,normal ,18.5-24.99,2
+2380,Switzerland, females ,normal ,18.5-24.99,2002
+2381,Switzerland, females ,normal ,18.5-24.99,2007
+2382,Switzerland, females ,obese ,>=30.0,2
+2383,Switzerland, females ,obese ,>=30.0,2002
+2384,Switzerland, females ,obese ,>=30.0,2007
+2385,Switzerland, females ,overweight ,>=25.0,2
+2386,Switzerland, females ,overweight ,>=25.0,2002
+2387,Switzerland, females ,overweight ,>=25.0,2007
+2388,Switzerland, females ,pre-obese ,25.0-29.99,2
+2389,Switzerland, females ,pre-obese ,25.0-29.99,2002
+2390,Switzerland, females ,pre-obese ,25.0-29.99,2007
+2391,Switzerland, females ,underweight ,<18.5,2
+2392,Switzerland, females ,underweight ,<18.5,2002
+2393,Switzerland, females ,underweight ,<18.5,2007
+2394,Switzerland, males ,normal ,18.5-24.99,2
+2395,Switzerland, males ,normal ,18.5-24.99,2002
+2396,Switzerland, males ,normal ,18.5-24.99,2007
+2397,Switzerland, males ,obese ,>=30.0,2
+2398,Switzerland, males ,obese ,>=30.0,2002
+2399,Switzerland, males ,obese ,>=30.0,2007
+2400,Switzerland, males ,overweight ,>=25.0,2
+2401,Switzerland, males ,overweight ,>=25.0,2002
+2402,Switzerland, males ,overweight ,>=25.0,2007
+2403,Switzerland, males ,pre-obese ,25.0-29.99,2
+2404,Switzerland, males ,pre-obese ,25.0-29.99,2002
+2405,Switzerland, males ,pre-obese ,25.0-29.99,2007
+2406,Switzerland, males ,underweight ,<18.5,2
+2407,Switzerland, males ,underweight ,<18.5,2002
+2408,Switzerland, males ,underweight ,<18.5,2007
+2409,Tajikistan, females ,moderate and severe thinness ,<=17,2003
+2410,Tajikistan, females ,normal ,18.5-24.99,2003
+2411,Tajikistan, females ,obese ,>=30.0,2003
+2412,Tajikistan, females ,overweight ,>=25.0,2003
+2413,Tajikistan, females ,pre-obese ,25.0-29.99,2003
+2414,Thailand, adults ,normal ,18.5-24.99,2003
+2415,Thailand, adults ,obese ,>=30.0,2003
+2416,Thailand, adults ,overweight ,>=25.0,2003
+2417,Thailand, adults ,pre-obese ,25.0-29.99,2003
+2418,Thailand, adults ,underweight ,<18.5,2003
+2419,Thailand, females ,normal ,18.5-24.99,2003
+2420,Thailand, females ,normal ,18.5-24.99,2004
+2421,Thailand, females ,obese ,>=30.0,2003
+2422,Thailand, females ,obese ,>=30.0,2004
+2423,Thailand, females ,overweight ,>=25.0,2003
+2424,Thailand, females ,overweight ,>=25.0,2004
+2425,Thailand, females ,pre-obese ,25.0-29.99,2003
+2426,Thailand, females ,pre-obese ,25.0-29.99,2004
+2427,Thailand, females ,underweight ,<18.5,2003
+2428,Thailand, females ,underweight ,<18.5,2004
+2429,Thailand, males ,normal ,18.5-24.99,2003
+2430,Thailand, males ,normal ,18.5-24.99,2004
+2431,Thailand, males ,obese ,>=30.0,2003
+2432,Thailand, males ,obese ,>=30.0,2004
+2433,Thailand, males ,overweight ,>=25.0,2003
+2434,Thailand, males ,overweight ,>=25.0,2004
+2435,Thailand, males ,pre-obese ,25.0-29.99,2003
+2436,Thailand, males ,pre-obese ,25.0-29.99,2004
+2437,Thailand, males ,underweight ,<18.5,2003
+2438,Thailand, males ,underweight ,<18.5,2004
+2439,Macedonia, adults ,obese ,>=30.0,1999
+2440,Macedonia, adults ,overweight ,>=25.0,1999
+2441,Macedonia, females ,moderate and severe thinness ,<=17,1999
+2442,Macedonia, females ,normal ,18.5-24.99,1999
+2443,Macedonia, females ,obese ,>=30.0,1999
+2444,Macedonia, females ,overweight ,>=25.0,1999
+2445,Macedonia, females ,pre-obese ,25.0-29.99,1999
+2446,Macedonia, females ,underweight ,<18.5,1999
+2447,Macedonia, males ,obese ,>=30.0,1999
+2448,Macedonia, males ,overweight ,>=25.0,1999
+2449,Timor-Leste, females ,moderate and severe thinness ,<=17,2003
+2450,Timor-Leste, females ,normal ,18.5-24.99,2003
+2451,Timor-Leste, females ,overweight ,>=25.0,2003
+2452,Timor-Leste, females ,underweight ,<18.5,2003
+2453,Timor-Leste, males ,moderate and severe thinness ,<=17,2003
+2454,Timor-Leste, males ,normal ,18.5-24.99,2003
+2455,Timor-Leste, males ,overweight ,>=25.0,2003
+2456,Timor-Leste, males ,underweight ,<18.5,2003
+2457,Tokelau, adults ,obese ,>=30.0,2007
+2458,Tokelau, females ,obese ,>=30.0,2007
+2459,Tokelau, males ,obese ,>=30.0,2007
+2460,Tonga, adults ,obese ,>=30.0,1999
+2461,Tonga, adults ,obese ,>=30.0,2
+2462,Turkey, adults ,normal ,18.5-24.99,2007
+2463,Turkey, adults ,obese ,>=30.0,2007
+2464,Turkey, adults ,overweight ,>=25.0,2007
+2465,Turkey, adults ,pre-obese ,25.0-29.99,2007
+2466,Turkey, adults ,underweight ,<18.5,2007
+2467,Turkey, females ,moderate and severe thinness ,<=17,2008
+2468,Turkey, females ,normal ,18.5-24.99,2003
+2469,Turkey, females ,normal ,18.5-24.99,2004
+2470,Turkey, females ,normal ,18.5-24.99,2007
+2471,Turkey, females ,normal ,18.5-24.99,2008
+2472,Turkey, females ,obese ,>=30.0,2003
+2473,Turkey, females ,obese ,>=30.0,2004
+2474,Turkey, females ,obese ,>=30.0,2007
+2475,Turkey, females ,obese ,>=30.0,2008
+2476,Turkey, females ,overweight ,>=25.0,2003
+2477,Turkey, females ,overweight ,>=25.0,2004
+2478,Turkey, females ,overweight ,>=25.0,2007
+2479,Turkey, females ,overweight ,>=25.0,2008
+2480,Turkey, females ,pre-obese ,25.0-29.99,2003
+2481,Turkey, females ,pre-obese ,25.0-29.99,2004
+2482,Turkey, females ,pre-obese ,25.0-29.99,2007
+2483,Turkey, females ,pre-obese ,25.0-29.99,2008
+2484,Turkey, females ,underweight ,<18.5,2003
+2485,Turkey, females ,underweight ,<18.5,2004
+2486,Turkey, females ,underweight ,<18.5,2007
+2487,Turkey, females ,underweight ,<18.5,2008
+2488,Turkey, males ,normal ,18.5-24.99,2007
+2489,Turkey, males ,obese ,>=30.0,2007
+2490,Turkey, males ,overweight ,>=25.0,2007
+2491,Turkey, males ,pre-obese ,25.0-29.99,2007
+2492,Turkey, males ,underweight ,<18.5,2007
+2493,Turkmenistan, females ,moderate and severe thinness ,<=17,2
+2494,Turkmenistan, females ,normal ,18.5-24.99,2
+2495,Turkmenistan, females ,obese ,>=30.0,2
+2496,Turkmenistan, females ,overweight ,>=25.0,2
+2497,Turkmenistan, females ,pre-obese ,25.0-29.99,2
+2498,Turkmenistan, females ,underweight ,<18.5,2
+2499,Uganda, females ,moderate and severe thinness ,<=17,2006
+2500,Uganda, females ,normal ,18.5-24.99,2006
+2501,Uganda, females ,obese ,>=30.0,2006
+2502,Uganda, females ,overweight ,>=25.0,2
+2503,Uganda, females ,overweight ,>=25.0,2001
+2504,Uganda, females ,overweight ,>=25.0,2006
+2505,Uganda, females ,pre-obese ,25.0-29.99,2006
+2506,Uganda, females ,underweight ,<18.5,2
+2507,Uganda, females ,underweight ,<18.5,2001
+2508,Uganda, females ,underweight ,<18.5,2006
+2509,Ukraine, females ,normal ,18.5-24.99,2002
+2510,Ukraine, females ,obese ,>=30.0,2002
+2511,Ukraine, females ,overweight ,>=25.0,2002
+2512,Ukraine, females ,pre-obese ,25.0-29.99,2002
+2513,Ukraine, females ,underweight ,<18.5,2002
+2514,United Arab Emirates, adults ,obese ,>=30.0,1999
+2515,United Arab Emirates, adults ,obese ,>=30.0,2
+2516,United Arab Emirates, adults ,pre-obese ,25.0-29.99,2
+2517,United Arab Emirates, females ,normal ,18.5-24.99,1999
+2518,United Arab Emirates, females ,normal ,18.5-24.99,2
+2519,United Arab Emirates, females ,obese ,>=30.0,1999
+2520,United Arab Emirates, females ,obese ,>=30.0,2
+2521,United Arab Emirates, females ,overweight ,>=25.0,1999
+2522,United Arab Emirates, females ,overweight ,>=25.0,2
+2523,United Arab Emirates, females ,pre-obese ,25.0-29.99,1999
+2524,United Arab Emirates, females ,pre-obese ,25.0-29.99,2
+2525,United Arab Emirates, females ,underweight ,<18.5,1999
+2526,United Arab Emirates, females ,underweight ,<18.5,2
+2527,United Arab Emirates, males ,obese ,>=30.0,1999
+2528,United Arab Emirates, males ,obese ,>=30.0,2
+2529,United Arab Emirates, males ,overweight ,>=25.0,2
+2530,United Arab Emirates, males ,pre-obese ,25.0-29.99,2
+2531,United Kingdom of Great Britain and Northern Ireland, adults ,normal ,18.5-24.99,1999
+2532,United Kingdom of Great Britain and Northern Ireland, adults ,normal ,18.5-24.99,2
+2533,United Kingdom of Great Britain and Northern Ireland, adults ,normal ,18.5-24.99,2001
+2534,United Kingdom of Great Britain and Northern Ireland, adults ,normal ,18.5-24.99,2002
+2535,United Kingdom of Great Britain and Northern Ireland, adults ,obese ,>=30.0,1999
+2536,United Kingdom of Great Britain and Northern Ireland, adults ,obese ,>=30.0,2
+2537,United Kingdom of Great Britain and Northern Ireland, adults ,obese ,>=30.0,2001
+2538,United Kingdom of Great Britain and Northern Ireland, adults ,obese ,>=30.0,2002
+2539,United Kingdom of Great Britain and Northern Ireland, adults ,overweight ,>=25.0,1999
+2540,United Kingdom of Great Britain and Northern Ireland, adults ,overweight ,>=25.0,2
+2541,United Kingdom of Great Britain and Northern Ireland, adults ,overweight ,>=25.0,2001
+2542,United Kingdom of Great Britain and Northern Ireland, adults ,overweight ,>=25.0,2002
+2543,United Kingdom of Great Britain and Northern Ireland, adults ,pre-obese ,25.0-29.99,1999
+2544,United Kingdom of Great Britain and Northern Ireland, adults ,pre-obese ,25.0-29.99,2
+2545,United Kingdom of Great Britain and Northern Ireland, adults ,pre-obese ,25.0-29.99,2001
+2546,United Kingdom of Great Britain and Northern Ireland, adults ,pre-obese ,25.0-29.99,2002
+2547,United Kingdom of Great Britain and Northern Ireland, adults ,underweight ,<18.5,1999
+2548,United Kingdom of Great Britain and Northern Ireland, adults ,underweight ,<18.5,2
+2549,United Kingdom of Great Britain and Northern Ireland, adults ,underweight ,<18.5,2001
+2550,United Kingdom of Great Britain and Northern Ireland, adults ,underweight ,<18.5,2002
+2551,United Kingdom of Great Britain and Northern Ireland, females ,normal ,18.5-24.99,1999
+2552,United Kingdom of Great Britain and Northern Ireland, females ,normal ,18.5-24.99,2
+2553,United Kingdom of Great Britain and Northern Ireland, females ,normal ,18.5-24.99,2001
+2554,United Kingdom of Great Britain and Northern Ireland, females ,normal ,18.5-24.99,2002
+2555,United Kingdom of Great Britain and Northern Ireland, females ,obese ,>=30.0,1999
+2556,United Kingdom of Great Britain and Northern Ireland, females ,obese ,>=30.0,2
+2557,United Kingdom of Great Britain and Northern Ireland, females ,obese ,>=30.0,2001
+2558,United Kingdom of Great Britain and Northern Ireland, females ,obese ,>=30.0,2002
+2559,United Kingdom of Great Britain and Northern Ireland, females ,overweight ,>=25.0,1999
+2560,United Kingdom of Great Britain and Northern Ireland, females ,overweight ,>=25.0,2
+2561,United Kingdom of Great Britain and Northern Ireland, females ,overweight ,>=25.0,2001
+2562,United Kingdom of Great Britain and Northern Ireland, females ,overweight ,>=25.0,2002
+2563,United Kingdom of Great Britain and Northern Ireland, females ,pre-obese ,25.0-29.99,1999
+2564,United Kingdom of Great Britain and Northern Ireland, females ,pre-obese ,25.0-29.99,2
+2565,United Kingdom of Great Britain and Northern Ireland, females ,pre-obese ,25.0-29.99,2001
+2566,United Kingdom of Great Britain and Northern Ireland, females ,pre-obese ,25.0-29.99,2002
+2567,United Kingdom of Great Britain and Northern Ireland, females ,underweight ,<18.5,1999
+2568,United Kingdom of Great Britain and Northern Ireland, females ,underweight ,<18.5,2
+2569,United Kingdom of Great Britain and Northern Ireland, females ,underweight ,<18.5,2001
+2570,United Kingdom of Great Britain and Northern Ireland, females ,underweight ,<18.5,2002
+2571,United Kingdom of Great Britain and Northern Ireland, males ,normal ,18.5-24.99,1999
+2572,United Kingdom of Great Britain and Northern Ireland, males ,normal ,18.5-24.99,2
+2573,United Kingdom of Great Britain and Northern Ireland, males ,normal ,18.5-24.99,2001
+2574,United Kingdom of Great Britain and Northern Ireland, males ,normal ,18.5-24.99,2002
+2575,United Kingdom of Great Britain and Northern Ireland, males ,obese ,>=30.0,1999
+2576,United Kingdom of Great Britain and Northern Ireland, males ,obese ,>=30.0,2
+2577,United Kingdom of Great Britain and Northern Ireland, males ,obese ,>=30.0,2001
+2578,United Kingdom of Great Britain and Northern Ireland, males ,obese ,>=30.0,2002
+2579,United Kingdom of Great Britain and Northern Ireland, males ,overweight ,>=25.0,1999
+2580,United Kingdom of Great Britain and Northern Ireland, males ,overweight ,>=25.0,2
+2581,United Kingdom of Great Britain and Northern Ireland, males ,overweight ,>=25.0,2001
+2582,United Kingdom of Great Britain and Northern Ireland, males ,overweight ,>=25.0,2002
+2583,United Kingdom of Great Britain and Northern Ireland, males ,pre-obese ,25.0-29.99,1999
+2584,United Kingdom of Great Britain and Northern Ireland, males ,pre-obese ,25.0-29.99,2
+2585,United Kingdom of Great Britain and Northern Ireland, males ,pre-obese ,25.0-29.99,2001
+2586,United Kingdom of Great Britain and Northern Ireland, males ,pre-obese ,25.0-29.99,2002
+2587,United Kingdom of Great Britain and Northern Ireland, males ,underweight ,<18.5,1999
+2588,United Kingdom of Great Britain and Northern Ireland, males ,underweight ,<18.5,2
+2589,United Kingdom of Great Britain and Northern Ireland, males ,underweight ,<18.5,2001
+2590,United Kingdom of Great Britain and Northern Ireland, males ,underweight ,<18.5,2002
+2591,United Republic of Tanzania, females ,moderate and severe thinness ,<=17,2004
+2592,United Republic of Tanzania, females ,moderate and severe thinness ,<=17,2005
+2593,United Republic of Tanzania, females ,normal ,18.5-24.99,2004
+2594,United Republic of Tanzania, females ,normal ,18.5-24.99,2005
+2595,United Republic of Tanzania, females ,obese ,>=30.0,2004
+2596,United Republic of Tanzania, females ,obese ,>=30.0,2005
+2597,United Republic of Tanzania, females ,overweight ,>=25.0,2004
+2598,United Republic of Tanzania, females ,overweight ,>=25.0,2005
+2599,United Republic of Tanzania, females ,pre-obese ,25.0-29.99,2004
+2600,United Republic of Tanzania, females ,pre-obese ,25.0-29.99,2005
+2601,United Republic of Tanzania, females ,underweight ,<18.5,2004
+2602,United Republic of Tanzania, females ,underweight ,<18.5,2005
+2603,United States of America, adults ,normal ,18.5-24.99,1999
+2604,United States of America, adults ,normal ,18.5-24.99,2
+2605,United States of America, adults ,normal ,18.5-24.99,2001
+2606,United States of America, adults ,normal ,18.5-24.99,2002
+2607,United States of America, adults ,obese ,>=30.0,1999
+2608,United States of America, adults ,obese ,>=30.0,2
+2609,United States of America, adults ,obese ,>=30.0,2001
+2610,United States of America, adults ,obese ,>=30.0,2002
+2611,United States of America, adults ,obese ,>=30.0,2003
+2612,United States of America, adults ,obese ,>=30.0,2004
+2613,United States of America, adults ,obese ,>=30.0,2005
+2614,United States of America, adults ,obese ,>=30.0,2006
+2615,United States of America, adults ,overweight ,>=25.0,1999
+2616,United States of America, adults ,overweight ,>=25.0,2
+2617,United States of America, adults ,overweight ,>=25.0,2001
+2618,United States of America, adults ,overweight ,>=25.0,2002
+2619,United States of America, adults ,overweight ,>=25.0,2003
+2620,United States of America, adults ,overweight ,>=25.0,2004
+2621,United States of America, adults ,overweight ,>=25.0,2005
+2622,United States of America, adults ,overweight ,>=25.0,2006
+2623,United States of America, adults ,pre-obese ,25.0-29.99,1999
+2624,United States of America, adults ,pre-obese ,25.0-29.99,2
+2625,United States of America, adults ,pre-obese ,25.0-29.99,2001
+2626,United States of America, adults ,pre-obese ,25.0-29.99,2002
+2627,United States of America, adults ,pre-obese ,25.0-29.99,2003
+2628,United States of America, adults ,pre-obese ,25.0-29.99,2004
+2629,United States of America, adults ,pre-obese ,25.0-29.99,2005
+2630,United States of America, adults ,pre-obese ,25.0-29.99,2006
+2631,United States of America, adults ,underweight ,<18.5,1999
+2632,United States of America, adults ,underweight ,<18.5,2
+2633,United States of America, adults ,underweight ,<18.5,2001
+2634,United States of America, adults ,underweight ,<18.5,2002
+2635,United States of America, females ,normal ,18.5-24.99,1999
+2636,United States of America, females ,normal ,18.5-24.99,2
+2637,United States of America, females ,normal ,18.5-24.99,2001
+2638,United States of America, females ,normal ,18.5-24.99,2002
+2639,United States of America, females ,obese ,>=30.0,1999
+2640,United States of America, females ,obese ,>=30.0,2
+2641,United States of America, females ,obese ,>=30.0,2001
+2642,United States of America, females ,obese ,>=30.0,2002
+2643,United States of America, females ,obese ,>=30.0,2003
+2644,United States of America, females ,obese ,>=30.0,2004
+2645,United States of America, females ,obese ,>=30.0,2005
+2646,United States of America, females ,obese ,>=30.0,2006
+2647,United States of America, females ,overweight ,>=25.0,1999
+2648,United States of America, females ,overweight ,>=25.0,2
+2649,United States of America, females ,overweight ,>=25.0,2001
+2650,United States of America, females ,overweight ,>=25.0,2002
+2651,United States of America, females ,overweight ,>=25.0,2003
+2652,United States of America, females ,overweight ,>=25.0,2004
+2653,United States of America, females ,overweight ,>=25.0,2005
+2654,United States of America, females ,overweight ,>=25.0,2006
+2655,United States of America, females ,pre-obese ,25.0-29.99,1999
+2656,United States of America, females ,pre-obese ,25.0-29.99,2
+2657,United States of America, females ,pre-obese ,25.0-29.99,2001
+2658,United States of America, females ,pre-obese ,25.0-29.99,2002
+2659,United States of America, females ,pre-obese ,25.0-29.99,2003
+2660,United States of America, females ,pre-obese ,25.0-29.99,2004
+2661,United States of America, females ,underweight ,<18.5,1999
+2662,United States of America, females ,underweight ,<18.5,2
+2663,United States of America, females ,underweight ,<18.5,2001
+2664,United States of America, females ,underweight ,<18.5,2002
+2665,United States of America, males ,normal ,18.5-24.99,1999
+2666,United States of America, males ,normal ,18.5-24.99,2
+2667,United States of America, males ,normal ,18.5-24.99,2001
+2668,United States of America, males ,normal ,18.5-24.99,2002
+2669,United States of America, males ,obese ,>=30.0,1999
+2670,United States of America, males ,obese ,>=30.0,2
+2671,United States of America, males ,obese ,>=30.0,2001
+2672,United States of America, males ,obese ,>=30.0,2002
+2673,United States of America, males ,obese ,>=30.0,2003
+2674,United States of America, males ,obese ,>=30.0,2004
+2675,United States of America, males ,obese ,>=30.0,2005
+2676,United States of America, males ,obese ,>=30.0,2006
+2677,United States of America, males ,overweight ,>=25.0,1999
+2678,United States of America, males ,overweight ,>=25.0,2
+2679,United States of America, males ,overweight ,>=25.0,2001
+2680,United States of America, males ,overweight ,>=25.0,2002
+2681,United States of America, males ,overweight ,>=25.0,2003
+2682,United States of America, males ,overweight ,>=25.0,2004
+2683,United States of America, males ,overweight ,>=25.0,2005
+2684,United States of America, males ,overweight ,>=25.0,2006
+2685,United States of America, males ,pre-obese ,25.0-29.99,1999
+2686,United States of America, males ,pre-obese ,25.0-29.99,2
+2687,United States of America, males ,pre-obese ,25.0-29.99,2001
+2688,United States of America, males ,pre-obese ,25.0-29.99,2002
+2689,United States of America, males ,pre-obese ,25.0-29.99,2003
+2690,United States of America, males ,pre-obese ,25.0-29.99,2004
+2691,United States of America, males ,underweight ,<18.5,1999
+2692,United States of America, males ,underweight ,<18.5,2
+2693,United States of America, males ,underweight ,<18.5,2001
+2694,United States of America, males ,underweight ,<18.5,2002
+2695,Uzbekistan, females ,moderate and severe thinness ,<=17,2002
+2696,Uzbekistan, females ,normal ,18.5-24.99,2002
+2697,Uzbekistan, females ,obese ,>=30.0,2002
+2698,Uzbekistan, females ,overweight ,>=25.0,2002
+2699,Uzbekistan, females ,pre-obese ,25.0-29.99,2002
+2700,Uzbekistan, females ,underweight ,<18.5,2002
+2701,Uzbekistan, males ,normal ,18.5-24.99,2002
+2702,Uzbekistan, males ,obese ,>=30.0,2002
+2703,Uzbekistan, males ,overweight ,>=25.0,2002
+2704,Uzbekistan, males ,underweight ,<18.5,2002
+2705,Viet Nam, adults ,normal ,18.5-24.99,2
+2706,Viet Nam, adults ,obese ,>=30.0,2
+2707,Viet Nam, adults ,overweight ,>=25.0,2
+2708,Viet Nam, adults ,overweight ,>=25.0,2002
+2709,Viet Nam, adults ,pre-obese ,25.0-29.99,2
+2710,Viet Nam, adults ,underweight ,<18.5,2
+2711,Viet Nam, females ,moderate and severe thinness ,<=17,2
+2712,Viet Nam, females ,normal ,18.5-24.99,2
+2713,Viet Nam, females ,obese ,>=30.0,2
+2714,Viet Nam, females ,overweight ,>=25.0,2
+2715,Viet Nam, females ,overweight ,>=25.0,2002
+2716,Viet Nam, females ,pre-obese ,25.0-29.99,2
+2717,Viet Nam, females ,underweight ,<18.5,2
+2718,Viet Nam, males ,moderate and severe thinness ,<=17,2
+2719,Viet Nam, males ,normal ,18.5-24.99,2
+2720,Viet Nam, males ,obese ,>=30.0,2
+2721,Viet Nam, males ,overweight ,>=25.0,2
+2722,Viet Nam, males ,overweight ,>=25.0,2002
+2723,Viet Nam, males ,pre-obese ,25.0-29.99,2
+2724,Viet Nam, males ,underweight ,<18.5,2
+2725,Zambia, females ,moderate and severe thinness ,<=17,2007
+2726,Zambia, females ,normal ,18.5-24.99,2001
+2727,Zambia, females ,normal ,18.5-24.99,2002
+2728,Zambia, females ,normal ,18.5-24.99,2007
+2729,Zambia, females ,obese ,>=30.0,2001
+2730,Zambia, females ,obese ,>=30.0,2002
+2731,Zambia, females ,obese ,>=30.0,2007
+2732,Zambia, females ,overweight ,>=25.0,2001
+2733,Zambia, females ,overweight ,>=25.0,2002
+2734,Zambia, females ,overweight ,>=25.0,2007
+2735,Zambia, females ,pre-obese ,25.0-29.99,2001
+2736,Zambia, females ,pre-obese ,25.0-29.99,2002
+2737,Zambia, females ,pre-obese ,25.0-29.99,2007
+2738,Zambia, females ,underweight ,<18.5,2001
+2739,Zambia, females ,underweight ,<18.5,2002
+2740,Zambia, females ,underweight ,<18.5,2007
+2741,Zimbabwe, adults ,normal ,18.5-24.99,2005
+2742,Zimbabwe, adults ,obese ,>=30.0,2005
+2743,Zimbabwe, adults ,overweight ,>=25.0,2005
+2744,Zimbabwe, adults ,pre-obese ,25.0-29.99,2005
+2745,Zimbabwe, adults ,underweight ,<18.5,2005
+2746,Zimbabwe, females ,normal ,18.5-24.99,2005
+2747,Zimbabwe, females ,normal ,18.5-24.99,2006
+2748,Zimbabwe, females ,obese ,>=30.0,1999
+2749,Zimbabwe, females ,obese ,>=30.0,2005
+2750,Zimbabwe, females ,obese ,>=30.0,2006
+2751,Zimbabwe, females ,overweight ,>=25.0,1999
+2752,Zimbabwe, females ,overweight ,>=25.0,2005
+2753,Zimbabwe, females ,overweight ,>=25.0,2006
+2754,Zimbabwe, females ,pre-obese ,25.0-29.99,2005
+2755,Zimbabwe, females ,pre-obese ,25.0-29.99,2006
+2756,Zimbabwe, females ,underweight ,<18.5,1999
+2757,Zimbabwe, females ,underweight ,<18.5,2005
+2758,Zimbabwe, females ,underweight ,<18.5,2006
+2759,Zimbabwe, males ,normal ,18.5-24.99,2005
+2760,Zimbabwe, males ,obese ,>=30.0,2005
+2761,Zimbabwe, males ,overweight ,>=25.0,2005
+2762,Zimbabwe, males ,pre-obese ,25.0-29.99,2005
+2763,Zimbabwe, males ,underweight ,<18.5,2005
+2764,Montenegro, adults ,obese ,>=30.0,2
+2765,Montenegro, adults ,overweight ,>=25.0,2
+2766,Montenegro, adults ,pre-obese ,25.0-29.99,2
+2767,Montenegro, females ,obese ,>=30.0,2
+2768,Montenegro, females ,overweight ,>=25.0,2
+2769,Montenegro, females ,pre-obese ,25.0-29.99,2
+2770,Montenegro, males ,obese ,>=30.0,2
+2771,Montenegro, males ,pre-obese ,25.0-29.99,2
