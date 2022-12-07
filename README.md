@@ -1,12 +1,5 @@
-# About the project
+# To understand the BMI of people by countries
 
-Introduction:
-Business Objective: To Generate a Model that predicts the body fat percentage of an athlete
-
-Source: https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
-
-contents:
-1. src - all the codes that includes generate models, cleans data and pyhton modules
-2. slides - mid boot camp and final presentation slides
-3. data - cleaned and raw files
-4. notebooks - jupyter notebooks where the codes were original created
+Weight is an important contributing factor for Obesity and Heart disease. In this mini project we will try to understand the following:
+1. BMI distribution of people access different countries
+2. try extract more information about the food habits and other physical activity levels of the at Risk countries
