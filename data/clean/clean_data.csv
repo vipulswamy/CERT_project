@@ -1,4 +1,4 @@
-,country,people,type,range,date
+,country,people,obesity_levels,obesity_level_percentage,date
 0,American Samoa, adults ,obese ,>=30.0,2004
 1,American Samoa, adults ,obese ,>=30.0,2007
 2,American Samoa, adults ,overweight ,>=25.0,2004

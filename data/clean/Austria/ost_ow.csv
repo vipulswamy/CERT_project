@@ -1,0 +1,13 @@
+,country,people,obesity_levels,obesity_level_percentage,date
+133,Austria, females ,overweight ,>=25.0,1999
+113,Austria, general ,overweight ,>=25.0,1999
+153,Austria, males ,overweight ,>=25.0,1999
+154,Austria, males ,overweight ,>=25.0,2006
+134,Austria, females ,overweight ,>=25.0,2006
+114,Austria, general ,overweight ,>=25.0,2006
+115,Austria, general ,overweight ,>=25.0,2007
+155,Austria, males ,overweight ,>=25.0,2007
+135,Austria, females ,overweight ,>=25.0,2007
+156,Austria, males ,overweight ,>=25.0,2008
+116,Austria, general ,overweight ,>=25.0,2008
+136,Austria, females ,overweight ,>=25.0,2008
