@@ -1,3 +1,4 @@
+![alt text](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211208-working-out-stock-mn-1310-55e1c7.jpg)
 # To explore and understand the BMI of people by countries
 ### Introduction
 Weight is an important contributing factor for Obesity and Heart disease. In this mini project we will try to understand the following:
