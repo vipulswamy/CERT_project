@@ -18,6 +18,9 @@ dataset: https://github.com/irichgreen/BMI_Classification/blob/master/data/Obser
 5. Decision about the predictive analysis (Long story short: I skipped, since it did'nt make sense)
 6. Conducting the hypotheis testing to understand the dependencies between various Nominal values
 
+### Highlight
+![alt text](https://public.tableau.com/shared/SX28BY5YF?:display_count=n&:origin=viz_share_link)
+
 ### Other vital sources for visual validation
 1. https://knoema.com/WHOGDOBMIMay/who-global-database-on-body-mass-index-bmi
 2. https://www.calculator.net/bmi-calculator.html?ctype=metric&cage=33&csex=m&cheightfeet=5&cheightinch=10&cpound=160&cheightmeter=172&ckg=56&printit=0&x=86&y=10
